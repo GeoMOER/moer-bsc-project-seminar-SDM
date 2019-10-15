@@ -21,16 +21,17 @@ feature_row_ilos:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-Species distribution modelling (SDM) is a key competence for ecogeographical research and applied nature conservation 
-because it allows us to estimate the current distributions of species and to also to predict the future distributions of species under climate change scenarios.
+Species distribution modelling (SDM) is a key competence for ecogeographical research and applied nature conservation. 
+It allows researchers to estimate current distributions of species and to also predict their future distributions under climate change scenarios.
 SDM encompasses various area-wide spatial predictions techniques and requires profound skills related to organizing, handling, analyzing and visualizing of geodata. 
 
-By using the programming environment R, this course will open the door to the cosmos of SDM techniques and will more generally provide a flexible baseline for workflow automation in real research projects.
+By using the programming environment R, this course will open the door to the cosmos of SDM techniques and will provide a flexible baseline for workflow automation in real research projects. Special emphasis will be on R Markdown for proper documentation and reproducibility. 
 
-blabla, hier weiter..
 
 # Intended learning outcomes
-At the end of this course you should be able
+At the end of this course you should be able to
+
+* hier weiter
   
 * to organize a variety of datasets and (intermediate) analysis results in structured fashion,
 * to document your workflow in an understandable and transparent manner, collaborate in teams and handle issues and task management using Git and GitHub as software management tool and plattform,
@@ -38,9 +39,21 @@ At the end of this course you should be able
 * to model relationships between data variables and calculate reliable error estimates,
 * to critically evaluate your analysis.
 
+<!--
+% Gruppenorientiertes, zielorientiertes Vorgehen zum Erfolgreichen Abschluss einer englischprachigen, peer-reviewed Publikation
+% SDM Modellierungstechniken
+% GIS Techniken (Georeferenzieren, Projektmanagement, Visualisierungen)
+% Fernerkundungsdaten beziehen, aufbereiten und ein Projekt einbinden
+% Zielgerichtetes Vorgehen für eine englischprachige, peer-reviewed Publikation
+% Simultanes Arbeiten an einem Onlinemanuskript
+-->
+
+
 # Course features
 
-The course provides a basis for the parallel [Geo Information Systems](https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2092236/index.html){:target="_blank"} and [Remote Sensing](https://ilias.uni-marburg.de/data/UNIMR/lm_data/lm_2285471/index.html){:target="_blank"} courses. It is intended as a blended learning module in our study program although the provided introductions, explanations and examples might be useful for self-study, too.
+This course is intended as a blended learning module in our study program although the provided introductions, explanations and examples might be useful for self-study, too.
+Given the enormous body of literature and methods available for SDM, it can only be an entry point for more sophisticated and project-specific modelling techniques.
+Each course aims to create area-wide species distribution maps for a group of organisms and a particular area of the world for which hitherto no species richness maps exist.
 
 
 
