@@ -86,8 +86,21 @@ build-iPhoneSimulator/
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
 
-_site/
+# Other, also personal items
+
+docs/_site/
+docs/vendor/
+
+docs/sicherung/
+
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 *.lock
+
+
+
+
+
+
+
