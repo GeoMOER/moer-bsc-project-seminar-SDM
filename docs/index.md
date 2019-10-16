@@ -31,22 +31,13 @@ By using the programming environment R, this course will open the door to the co
 # Intended learning outcomes
 At the end of this course you should be able to
 
-* hier weiter
-  
-* to organize a variety of datasets and (intermediate) analysis results in structured fashion,
-* to document your workflow in an understandable and transparent manner, collaborate in teams and handle issues and task management using Git and GitHub as software management tool and plattform,
-* to implement data analysis workflows using tailored R scripts along with readily available functions from third-party R packages,
-* to model relationships between data variables and calculate reliable error estimates,
-* to critically evaluate your analysis.
-
-<!--
-% Gruppenorientiertes, zielorientiertes Vorgehen zum Erfolgreichen Abschluss einer englischprachigen, peer-reviewed Publikation
-% SDM Modellierungstechniken
-% GIS Techniken (Georeferenzieren, Projektmanagement, Visualisierungen)
-% Fernerkundungsdaten beziehen, aufbereiten und ein Projekt einbinden
-% Zielgerichtetes Vorgehen für eine englischprachige, peer-reviewed Publikation
-% Simultanes Arbeiten an einem Onlinemanuskript
--->
+* distinguish between and apply major SDM techniques,
+* feel comfortable with the usage of R,
+* analyse, share and reproduce your spatial data with R Markdown,
+* use open GIS to manage, visualize and georeference your spatial data,
+* include and process remote sensing data in your workflow,
+* learn how to implement a publication project in a collaborative approach, and last but not least to
+* critically evaluate your analyses and results.
 
 
 # Course features
@@ -56,6 +47,63 @@ Given the enormous body of literature and methods available for SDM, it can only
 Each course aims to create area-wide species distribution maps for a group of organisms and a particular area of the world for which hitherto no species richness maps exist.
 
 
+
+# Syllabus
+
+| Session | Topic | Content |
+|---------|-------|---------|
+|| **R Basics** ||
+| 01 | The very basics              | Course introduction, expectations, organisational matters, data and information, R, R Studio, R Markdown, RPubs |
+| 02 | More basics                  | Working environment, data types, object types, operators, indexing, plotting, reading and writing |
+| 03 | Working with spatial data    | Raster data, vector data, spatial operators, mapping, reading and writing  |
+|| **Species Distribution Modelling** ||
+| 04 | SDM theory                   | Niches, climate space, biotic and abiotic interactions, dispersal   |
+| 05 | SDM methods I                | Student presentations and examples with toy data: Profile methods, classical regression models |
+| 06 | SDM methods II               | Student presentations and examples with toy data: Machine learning methods, Bayesian methods, others   |
+|| **Research project** ||
+| 07 | Outline                      | Project introduction, objectives, procedure, available data, data to be obtained |
+| 08 | Dealing with real data       | Reading, tailoring, NA handling, reprojecting, describing, visualising, aggregating, merging, subsetting and writing of the project dataset |
+| 09 | Dataset complementation I    | Adding raster remote sensing data to the project dataset |
+| 10 | Dataset complementation II   | Adding vector distribution data to the project dataset: Georeferencing |
+| 11 | Modelling                    | Area-wide predictive modelling |
+| 12 | Paper writing                | Candidate journals, discussion of content and individual contributions, drafting of online manuscript template |
+|| **Evaluation** ||
+| 13 | Evaluation                   | Official course evaluation session, continue manuscript writing |
+|| **Wrap up** ||
+| 14 | Wrap up                      | Time for questions, manuscripts submission, goodbye |
+
+
+
+
+
+<!--
+3 SDM Techniken, evtl. angelehnt an rspatial HTML https://www.rspatial.org/raster/sdm/index.html
+4 GIS Schnittstelle: QGIS Georeferenzieren
+5 Fernerkundung Schnittstelle: Umweltlayer besorgen, projizieren, einladen
+6 Punktdaten holen (von Christian, Tshikolovits?)
+7 Modellieren: Verschieden Techniken besprechen, evtl vorstellen lassen und ausprobieren
+9 Auswahl und Vorstellung verschiedener candidate journals
+10 Entwurf paper und onlinedokument anlegen
+11 Gemeinsames Arbeiten an paper: Aufgaben definieren, verteilen (Literaturrecherche, gemeinsame Literaturdatenbank anlegen)
+-->
+
+
+# Deliverables
+
+The graded course certificate will be based on individual assignments written in R Markdown and published on RPubs.
+The individual assignments will be defined in the respective course sessions along with the information whether they will be graded or not.
+
+
+# Preparation and prerequisites
+
+Basic knowledge of R and of handling spatial data is beneficial, but not required.
+
+
+# Instructor
+{% include author-profile.html %}
+
+
+<!-- Funkychunky
 
 # Syllabus
 
@@ -82,17 +130,4 @@ Each course aims to create area-wide species distribution maps for a group of or
 || **Wrap up** ||
 | 14 | Wrap up | Time for questions, specific data analysis problems, goodbye |
 
-
-# Deliverables
-
-The graded course certificate will be based on an individual portfolio hosted as a personal repository on GitHub. The individual portfolio items are defined in the respective course assignments along with the information if they will be marked or not.
-
-
-# Preparation and prerequisites
-
-The courses assumes basic knowledge and skills in geo-information science.
-
-
-
-# Instructor
-{% include author-profile.html %}
+-->
