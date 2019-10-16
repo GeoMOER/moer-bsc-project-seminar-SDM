@@ -70,7 +70,7 @@ Each course aims to create area-wide species distribution maps for a group of or
 || **Evaluation** ||
 | 13 | Evaluation                   | Official course evaluation session, continue manuscript writing |
 || **Wrap up** ||
-| 14 | Wrap up                      | Time for questions, manuscripts submission, goodbye |
+| 14 | Wrap up                      | Manuscripts submission, time for questions, goodbye |
 
 
 
