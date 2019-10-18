@@ -1,10 +1,9 @@
 ---
-title: RPubs
+title: Git and GitHub
 ---
 
-hier weiter
-
-To start with a clarification, again: Git is the version control system you will use in this course (and which is used by many other developers). With Git you will manage something called repository which is the place where you manage your software project (i.e. a folder on your hard disk per project). GitHub is an online software development platform which provides online hosted versions of your local Git repositories and much more collaborative functionality. 
+To start with a clarification: Git is the version control system you will use in this course (and which is used by many other developers all around the world). 
+With Git you will manage something called *repository* which is the place where you manage your software project (i.e. a folder on your hard disk per project). GitHub is an online software development platform which provides online hosted versions of your local Git repositories and much more collaborative functionality. 
 
 ## Some GitHub advertisement
 
@@ -21,4 +20,5 @@ To learn more about Git and GitHub, some starting points are
   * [GitHub learning lab](https://lab.github.com/){:target="_blank"}
   
  
-If you are more traditional, you could also start with the original [Git getting started guide at git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control){:target="_blank"}. 
+If you are more traditional, you could also start with the original [Git getting started guide at git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control){:target="_blank"}
+ or with this [paper published in PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668){:target="_blank"}. 

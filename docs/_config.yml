@@ -131,7 +131,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "01 First Things First"
+      category: "01 The very basics"
       tags: "Unit 01"
       layout: single
       sidebar:

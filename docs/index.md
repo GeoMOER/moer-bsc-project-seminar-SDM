@@ -53,7 +53,7 @@ Each course aims to create area-wide species distribution maps for a group of or
 | Session | Topic | Content |
 |---------|-------|---------|
 || **R Basics** ||
-| 01 | The very basics              | Course introduction, expectations, organisational matters, data and information, R, R Studio, R Markdown, RPubs |
+| 01 | The very basics              | Course introduction, expectations, organisational matters, data and information, R, R Studio, R Markdown, GitHub |
 | 02 | More basics                  | Working environment, data types, object types, operators, indexing, plotting, reading and writing |
 | 03 | Working with spatial data    | Raster data, vector data, spatial operators, mapping, reading and writing  |
 || **Species Distribution Modelling** ||
@@ -90,7 +90,7 @@ Each course aims to create area-wide species distribution maps for a group of or
 
 # Deliverables
 
-The graded course certificate will be based on individual assignments written in R Markdown and published on RPubs.
+The graded course certificate will be based on individual assignments written in R Markdown and published on GitHub.
 The individual assignments will be defined in the respective course sessions along with the information whether they will be graded or not.
 
 
