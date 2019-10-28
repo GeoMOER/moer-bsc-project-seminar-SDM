@@ -1,29 +1,8 @@
 ---
-title: Operators
+title: Decisions and Loops
 ---
 
-Control structures require logical or maybe also boolean operators which test simple relationships between two or more variables. Depending on the test results, control structures can be used to decide how the program should go on.
-
-### Logical operators
-The basis for deciding between different options during runtime are logical operators. Such operators compare two variables and return *true* or *false* depending on the result of the comparison
-
-The following logical operators are commonly used:
-* x < y: test if x is smaller than y
-* x > y: test if x is larger than y
-* x == y: test if x is exactly equal to y
-* x >= y: test if x is larger or egual than y
-* x <= y: test if x is smaller or equal than y
-* x != y: test if x is not equal to y
-
-### Boolean Operators
-To make decisions based on a comparison of more than two variables, one can combine logical operators using boolean operators. As for logical operators, boolean operators return *true* or *false*.
-The following boolean operators are commonly used:
-
-* AND: ```&```
-* OR: ```|```
-
-
-
+Decision structures are like junctions in the analysis workflow and decide which way to go during runtime. Loops are the workhorses for repeating the same computations on different subsets of the data.
 
 ## If-then-else
 If-then-else decisions are useful if your computation needs different workflows for different variable values.

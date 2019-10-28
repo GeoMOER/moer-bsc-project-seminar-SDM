@@ -80,9 +80,9 @@ collections:
   unit01:
     output: true
     permalink: /:collection/:title.html
-#  unit02:
-#    output: true
-#    permalink: /:collection/:title.html
+  unit02:
+    output: true
+    permalink: /:collection/:title.html
 #  unit03:
 #    output: true
 #    permalink: /:collection/:title.html
@@ -141,7 +141,7 @@ defaults:
       path: ""
       type: unit02
     values:
-      category: "02 First Things Second"
+      category: "02 More basics"
       tags: "Unit 02"
       layout: single
       sidebar:

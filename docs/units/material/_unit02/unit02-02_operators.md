@@ -19,11 +19,19 @@ The following logical operators are commonly used:
 To make decisions based on a comparison of more than two variables, one can combine logical operators using boolean operators. As for logical operators, boolean operators return *true* or *false*.
 The following boolean operators are commonly used:
 
-* AND: ```&```
-* OR: ```|```
+* AND
+* OR
+
+The result of boolean operators can be visualized in a truth table.
 
 
+| a    | b    | AND  | OR   |
+| True | True | True | True | 
+| True | False | False | True | 
+| False | True | False | True | 
+| False | False | False | False | 
 
+For more boolean operators and respective truth tables, see the [truth tables](https://en.wikipedia.org/wiki/Truth_table){:target="_blank"} entry at Wikipedia.
 
 ## If-then-else
 If-then-else decisions are useful if your computation needs different workflows for different variable values.
