@@ -151,7 +151,7 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: "03 Look at Your Data"
+      category: "03 Working with spatial data"
       tags: "Unit 03"
       layout: single
       sidebar:
