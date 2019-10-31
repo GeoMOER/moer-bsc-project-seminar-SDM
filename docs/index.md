@@ -55,7 +55,7 @@ Each course aims to create area-wide species distribution maps for a group of or
 || **R Basics** ||
 | 01 | The very basics              | Course introduction, expectations, organisational matters, data and information, R, R Studio, R Markdown, GitHub |
 | 02 | More basics                  | Working environment, data types, object types, operators, indexing, plotting, reading and writing |
-| 03 | Working with spatial data    | Raster data, vector data, spatial operators, mapping, reading and writing  |
+| 03 | Working with spatial data    | Raster data, vector data, reading and writing spatial data, coordinate reference systems, spatial operators, mapping |
 || **Species Distribution Modelling** ||
 | 04 | SDM theory                   | Niches, climate space, biotic and abiotic interactions, dispersal   |
 | 05 | SDM methods I                | Student presentations and examples with toy data: Profile methods, classical regression models |
