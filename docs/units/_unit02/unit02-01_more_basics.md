@@ -5,8 +5,9 @@ title: "More basics"
 Become familiar with basic operators, loop and decision structures, and code styling before focussing on reading and writing data, computing summary statistics, and visual data exploration.
 Finally check the integrity of datasets and clean them up to ensure that the data basis for subsequent analyses is consistent.
 
-
 <!--more-->
+
+
 
 ## Learning objectives
 At the end of this unit you should be able to

@@ -4,14 +4,15 @@ title: "Spatial Data"
 
 Get a brute-force introduction to working with different kinds of spatial data in R.
 
+<!--more-->
 
 
 ## Learning objectives
 At the end of this unit you should be able to
 
 * distinguish between raster and vector data,
-* know how to read in and write out spatial data,
-* know the basics for using coordinate reference systems in R, and
+* know the basics for using coordinate reference systems in R, 
+* know how to read in and write out spatial data, and
 * apply some basic vector and raster data manipulations.
 
 
