@@ -9,7 +9,7 @@ The units of a CRS can be meters, kilometers, degrees or some other arbitrarily 
 
 In practice, a CRS is used to represent vector or raster data in some geographical space, e.g. on Earth. 
 Unfortunately, Earth is 3-dimensional (at least) and most media for representing space is 2-dimensional or planar (like paper and computer screens).
-This causes a lot of trouble because it requires a 3D to 2D transformation or _projection_. 
+This causes a lot of trouble because it makes a 3D to 2D transformation or _projection_ necessary. 
 
 
 
