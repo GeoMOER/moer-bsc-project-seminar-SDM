@@ -1,5 +1,5 @@
 ---
-title: "Unmarked Assignment: Spatial Data Processing"
+title: "Exercise: Spatial Data Processing"
 ---
 
 This exercise will lead you through some of the most basic and important steps for spatial data processing.
@@ -19,7 +19,8 @@ Create a map of Germany with the following features:
 - a raster background map showing elevation data,
 - a vector map showing the country boundary,
 - use the vector map to clip the raster map,
-- map point locations denoting the places of birth of all course participants,
+- map point locations denoting the places of birth of all course participants 
+(use a `SpatialPointsDataFrame` object with the correct CRS for this task),
 - map the three largest German cities and Marburg with different symbols, and
 - get bonus points by adding a legend, rivers, and other cartographic elements as well as
 - the distances of the places of birth to Marburg.

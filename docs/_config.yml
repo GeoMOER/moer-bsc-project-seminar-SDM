@@ -83,9 +83,9 @@ collections:
   unit02:
     output: true
     permalink: /:collection/:title.html
-#  unit03:
-#    output: true
-#    permalink: /:collection/:title.html
+  unit03:
+    output: true
+    permalink: /:collection/:title.html
 #  unit04:
 #    output: true
 #    permalink: /:collection/:title.html
