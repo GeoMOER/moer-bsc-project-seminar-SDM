@@ -86,9 +86,9 @@ collections:
   unit03:
     output: true
     permalink: /:collection/:title.html
-#  unit04:
-#    output: true
-#    permalink: /:collection/:title.html
+  unit04:
+    output: true
+    permalink: /:collection/:title.html
 #  unit05:
 #    output: true
 #    permalink: /:collection/:title.html
@@ -161,7 +161,7 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "04 Clean Your Data"
+      category: "04 SDM theory"
       tags: "Unit 04"
       layout: single
       sidebar:
@@ -171,7 +171,7 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "05 Describe Your Linear Data"
+      category: "05 xxx"
       tags: "Unit 05"
       layout: single
       sidebar:
