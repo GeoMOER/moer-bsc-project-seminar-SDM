@@ -89,12 +89,12 @@ collections:
   unit04:
     output: true
     permalink: /:collection/:title.html
-#  unit05:
-#    output: true
-#    permalink: /:collection/:title.html
-#  unit06:
-#    output: true
-#    permalink: /:collection/:title.html
+  unit05:
+    output: true
+    permalink: /:collection/:title.html
+  unit06:
+    output: true
+    permalink: /:collection/:title.html
 #  unit07:
 #    output: true
 #    permalink: /:collection/:title.html
@@ -171,7 +171,7 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "05 xxx"
+      category: "05 SDM Methods I"
       tags: "Unit 05"
       layout: single
       sidebar:
@@ -181,7 +181,7 @@ defaults:
       path: ""
       type: unit06
     values:
-      category: "06 Predict Your Linear Data"
+      category: "06 SDM Methods II"
       tags: "Unit 06"
       layout: single
       sidebar:
