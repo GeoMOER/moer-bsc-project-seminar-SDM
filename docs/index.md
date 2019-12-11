@@ -131,3 +131,4 @@ Basic knowledge of R and of handling spatial data is beneficial, but not require
 | 14 | Wrap up | Time for questions, specific data analysis problems, goodbye |
 
 -->
+

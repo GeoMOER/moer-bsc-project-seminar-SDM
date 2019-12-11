@@ -95,15 +95,15 @@ collections:
   unit06:
     output: true
     permalink: /:collection/:title.html
-#  unit07:
-#    output: true
-#    permalink: /:collection/:title.html
-#  unit08:
-#    output: true
-#    permalink: /:collection/:title.html
-#  unit09:
-#    output: true
-#    permalink: /:collection/:title.html
+  unit07:
+    output: true
+    permalink: /:collection/:title.html
+  unit08:
+    output: true
+    permalink: /:collection/:title.html
+  unit09:
+    output: true
+    permalink: /:collection/:title.html
 #  unit10:
 #    output: true
 #    permalink: /:collection/:title.html
@@ -191,7 +191,7 @@ defaults:
       path: ""
       type: unit07
     values:
-      category: "07 Select Your Variables"
+      category: "07 Outline"
       tags: "Unit 07"
       layout: single
       sidebar:
@@ -201,7 +201,7 @@ defaults:
       path: ""
       type: unit08
     values:
-      category: "08 Tune Your Models"
+      category: "08 Dealing with real data"
       tags: "Unit 08"
       layout: single
       sidebar:
@@ -211,7 +211,7 @@ defaults:
       path: ""
       type: unit09
     values:
-      category: "09 Predict Time Series"
+      category: "09 Dataset complementation I"
       tags: "Unit 09"
       layout: single
       sidebar:
