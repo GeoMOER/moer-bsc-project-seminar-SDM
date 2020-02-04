@@ -65,27 +65,15 @@ Each course aims to create area-wide species distribution maps for a group of or
 | 08 | Dealing with real data       | Reading, tailoring, NA handling, reprojecting, describing, visualising, aggregating, merging, subsetting and writing of the project dataset |
 | 09 | Dataset complementation I    | Adding raster remote sensing data to the project dataset |
 | 10 | Dataset complementation II   | Adding vector distribution data to the project dataset: Georeferencing |
-| 11 | Modelling                    | Area-wide predictive modelling |
-| 12 | Paper writing                | Candidate journals, discussion of content and individual contributions, drafting of online manuscript template |
+| 11 | Modelling I                  | Area-wide predictive modelling |
+| 12 | Modelling II                 | Area-wide predictive modelling |
 || **Evaluation** ||
-| 13 | Evaluation                   | Official course evaluation session, continue manuscript writing |
+| 13 | Evaluation                   | Official course evaluation session, continue modelling |
 || **Wrap up** ||
-| 14 | Wrap up                      | Manuscripts submission, time for questions, goodbye |
+| 14 | Paper writing                | Discussion of manuscript content, candidate journals, and potential individual contributions|
 
 
 
-
-
-<!--
-3 SDM Techniken, evtl. angelehnt an rspatial HTML https://www.rspatial.org/raster/sdm/index.html
-4 GIS Schnittstelle: QGIS Georeferenzieren
-5 Fernerkundung Schnittstelle: Umweltlayer besorgen, projizieren, einladen
-6 Punktdaten holen (von Christian, Tshikolovits?)
-7 Modellieren: Verschieden Techniken besprechen, evtl vorstellen lassen und ausprobieren
-9 Auswahl und Vorstellung verschiedener candidate journals
-10 Entwurf paper und onlinedokument anlegen
-11 Gemeinsames Arbeiten an paper: Aufgaben definieren, verteilen (Literaturrecherche, gemeinsame Literaturdatenbank anlegen)
--->
 
 
 # Deliverables

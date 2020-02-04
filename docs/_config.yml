@@ -104,9 +104,9 @@ collections:
   unit09:
     output: true
     permalink: /:collection/:title.html
-#  unit10:
-#    output: true
-#    permalink: /:collection/:title.html
+  unit10:
+    output: true
+    permalink: /:collection/:title.html
 #  unit11:
 #    output: true
 #    permalink: /:collection/:title.html
@@ -221,7 +221,7 @@ defaults:
       path: ""
       type: unit10
     values:
-      category: "10 Analyse Time Series"
+      category: "10 Dataset complementation II"
       tags: "Unit 10"
       layout: single
       sidebar:
