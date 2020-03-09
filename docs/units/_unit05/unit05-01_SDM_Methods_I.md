@@ -9,12 +9,11 @@ This is going to be a continuously updated collection of sources to obtain vario
 
 _work in progress_
 
-## Profile methods
+Navigate with the left panel
 
+## Generalized linear models (GLMs)
 
-
-## Classical regression methods
-
+## Bioclim
 
 ## MaxEnt
 
