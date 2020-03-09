@@ -10,7 +10,6 @@ Reading, tailoring, NA handling, reprojecting, describing, visualising, aggregat
 _work in progress_
 
 
-## xxx
 
 
 

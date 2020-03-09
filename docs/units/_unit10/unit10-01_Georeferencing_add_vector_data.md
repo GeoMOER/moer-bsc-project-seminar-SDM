@@ -2,7 +2,7 @@
 title: Dataset complementation II
 ---
 
-Adding vector data to the project dataset: Georeferencing and digitization of distribution records
+Adding *vector* data to the project dataset: Georeferencing and digitization of distribution records
 
 <!--more-->
 
@@ -10,7 +10,6 @@ Adding vector data to the project dataset: Georeferencing and digitization of di
 _work in progress_
 
 
-## xxx
 
 
 

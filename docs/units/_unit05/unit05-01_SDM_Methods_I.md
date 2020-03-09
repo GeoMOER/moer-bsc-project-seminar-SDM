@@ -2,20 +2,18 @@
 title: SDM Methods I
 ---
 
-This is going to be a continuously updated collection of sources to obtain various kinds of information on different SDM techniques.
+This is going to be a continuously updated collection of sources to obtain various kinds of information on different SDM techniques. The content of these pages is the result of student's work during the course.
 
 <!--more-->
 
 
 _work in progress_
 
-Navigate with the left panel
+## [Generalized Linear Models (GLMs)]({{ "unit05-02_GLM.html" | baseURL }}){:target="_blank"}
 
-## Generalized linear models (GLMs)
+## [Bioclim]({{ "unit05-03_bioclim.html" | baseURL }}){:target="_blank"}
 
-## Bioclim
-
-## MaxEnt
+## [MaxEnt]({{ "unit05-04_maxent.html" | baseURL }}){:target="_blank"}
 
 
 

@@ -2,7 +2,7 @@
 title: Outline
 ---
 
-Study region, study organism, project context, main project objective, set up working environment, Task
+Study region, study organism, project context, main project objective, set up working environment, Tasks
 
 <!--more-->
 
@@ -22,14 +22,14 @@ _work in progress_
 ## Study organism
 
 
-## Set up working environment
+## Set up computer environment
 
 ### Data
 
 ### Scripts
 
 
-## Task
+## Tasks
 
 
 

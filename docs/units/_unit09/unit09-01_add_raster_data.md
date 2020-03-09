@@ -2,7 +2,7 @@
 title: Dataset complementation I
 ---
 
-Adding raster remote sensing data to the project dataset
+Adding *raster* remote sensing data to the project dataset
 
 <!--more-->
 
@@ -10,7 +10,6 @@ Adding raster remote sensing data to the project dataset
 _work in progress_
 
 
-## xxx
 
 
 
