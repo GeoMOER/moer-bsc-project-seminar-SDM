@@ -5,7 +5,7 @@ date: '2019-10-15 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.6
-  overlay_image: "/assets/images/teaser.png"
+  overlay_image: "/assets/images/titleimage/QGIS_Pakistan_2.png"
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
   cta_label: Go to course units
   cta_url: "/units.html"
