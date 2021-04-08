@@ -46,6 +46,10 @@ This course is intended as a blended learning module in our study program althou
 Given the enormous body of literature and methods available for SDM, it can only be an entry point for more sophisticated and project-specific modelling techniques.
 Each course aims to create area-wide species distribution maps for a group of organisms and a particular area of the world for which hitherto no species richness maps exist.
 
+Due to the ongoing **Corona-Virus SARS-CoV-2 pandemic** this course will be taught in a “Hybrid”-concept and trying to include session where students and  teachers partly meet at the University of Marburg, depending on the current situation and regulations.
+However, until further notice, the course will take place fully digital in the online classroom.
+The link to the online classroom will be provided by the instructor.
+{: .notice--info}
 
 
 # Syllabus
@@ -73,9 +77,6 @@ Each course aims to create area-wide species distribution maps for a group of or
 | 14 | Paper writing                | Discussion of manuscript content, candidate journals, and potential individual contributions|
 
 
-
-
-
 # Deliverables
 
 The graded course certificate will be based on individual assignments written in R Markdown and published on GitHub.
@@ -85,6 +86,9 @@ The individual assignments will be defined in the respective course sessions alo
 # Preparation and prerequisites
 
 Basic knowledge of R and of handling spatial data is beneficial, but not required.
+This course will make use of additionally provided material for teaching basic R skills, 
+which can be found [here](https://geomoer.github.io/moer-base-r/).
+
 
 
 # Instructor
