@@ -11,7 +11,7 @@ header:
   cta_url: "/units.html"
 excerpt: Get an overview of species distribution modelling techniques, use R for handling, modelling and visualizing geo-datasets, and conjointly develop software for digitizing species distribution records
 feature_row_intro:
-- excerpt: Bachelor level course in [Physical Geography](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bachelor-geographie/herzlich-willkommen-beim-bachelor-geographie){:target="_blank"} at Marburg University
+- excerpt: Bachelor level course in [Physical Geography](https://www.uni-marburg.de/en/fb19/disciplines/physisch){:target="_blank"} at Marburg University
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -86,40 +86,15 @@ The individual assignments will be defined in the respective course sessions alo
 
 Basic knowledge of R and of handling spatial data is beneficial, but not required.
 This course will make use of additionally provided material for teaching basic R skills, 
-which can be found [here](https://geomoer.github.io/moer-base-r/).
+which can be found [here](https://geomoer.github.io/moer-base-r/){:target="_blank"}.
 
 
 
 # Instructor
 {% include author-profile.html %}
 
-
-<!-- Funkychunky
-
-# Syllabus
-
-| Session | Topic | Content |
-|-------|--------|---------|
-|| **Data basics** ||
-| 01 | First things first | Data and information, R, R Studio, R markdown, GitHub, GitHub classroom |
-| 02 | First things second | Working environment, data sets, data types, data structures, logical operators, control structures |
-|| **Data exploration** ||
-| 03 | Look at your data | Reading and writing (tabulated) data, visual data exploitation, descriptive statistics |
-| 04 | Clean your data | Tailoring data sets, fill values and NA, aggregating, merging or sub-setting data sets |
-|| **Data modelling** ||
-| 05 | Explain your data | Linear regression modelling, confidence intervals, sample tests, variance analysis |
-| 06 | Predict your data | Cross-validation |
-| 07 | Select your variables | Multiple linear models, feature selection |
-| 08 | Predict your non-linear data | Generalized additive models |
-| 09 | T-6 and holding | Build-in hold to finish up the explanation sessions |
-| 10 | Predict your temporal data | Auto-correlation, AR and ARIMA models |
-| 11 | Explain your temporal data | Decomposing time series |
-|| **Visualization** ||
-| 12 | Visualize your data | Publication quality graphics |
-|| **Evaluation** ||
-| 13 | Evaluation | Official course evaluation session |
-|| **Wrap up** ||
-| 14 | Wrap up | Time for questions, specific data analysis problems, goodbye |
-
+<!--
+[Go to course units]({{ site.baseurl }}{% link _pages/units.md %}){: .btn .btn--success .btn--large .align-center}
 -->
+
 

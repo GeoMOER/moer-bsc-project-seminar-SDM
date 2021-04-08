@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Course units"
-    url: /units.html
+    url: /units.html  
   - title: "Lab Home"
     url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
   - title: "OER Home"
-    url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR    
+    url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
   - title: "About"
     url: /about.html
   - title: "Sitemap"
@@ -21,3 +21,5 @@ docs:
         url: https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics
       - title: "OER Home"
         url: https://oer.uni-marburg.de/goto.php?target=cat_1651239&client_id=UNIMR
+      - title: "Other courses"
+        url: https://geomoer.github.io/moer-info-page/  

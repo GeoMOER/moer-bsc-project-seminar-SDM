@@ -41,7 +41,7 @@ description: >- # this means to ignore newlines until next item
 ##### Lecturer settings #######################################################
 author:
   name             : "Dirk Zeuss"
-  avatar           : "/assets/images/zeuss.jpg"
+  avatar           : "/assets/images/instructors/zeuss.jpg"
   bio              : "University of Marburg"
   location         : "Marburg, DE"
   email            : "dirk.zeuss@uni-marburg.de"
