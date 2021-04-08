@@ -9,7 +9,7 @@ header:
   caption: 'Photo: [**Environmental Informatics Marburg**](https://www.flickr.com/environmentalinformatics-marburg/)'
   cta_label: Go to course units
   cta_url: "/units.html"
-excerpt: Get an overview of species distribution modelling techniques, use R for handling, modelling and visualizing geo-datasets, and conjointly prepare a draft for a peer-reviewed publication
+excerpt: Get an overview of species distribution modelling techniques, use R for handling, modelling and visualizing geo-datasets, and conjointly develop software for digitizing species distribution records
 feature_row_intro:
 - excerpt: Bachelor level course in [Physical Geography](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/bachelor-geographie/herzlich-willkommen-beim-bachelor-geographie){:target="_blank"} at Marburg University
 feature_row_ilos:
@@ -71,10 +71,9 @@ The link to the online classroom will be provided by the instructor.
 | 10 | Dataset complementation II   | Adding vector distribution data to the project dataset: Georeferencing |
 | 11 | Modelling I                  | Area-wide predictive modelling |
 | 12 | Modelling II                 | Area-wide predictive modelling |
-|| **Evaluation** ||
-| 13 | Evaluation                   | Official course evaluation session, continue modelling |
+| 13 | Software development                   | Test and debug software for digitizing species records |
 || **Wrap up** ||
-| 14 | Paper writing                | Discussion of manuscript content, candidate journals, and potential individual contributions|
+| 14 | Paper writing (optional)               | Discussion of manuscript content, candidate journals, and potential individual contributions|
 
 
 # Deliverables
