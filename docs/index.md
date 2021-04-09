@@ -51,29 +51,34 @@ However, until further notice, the course will take place fully digital in the o
 The link to the online classroom will be provided by the instructor.
 {: .notice--info}
 
+# Course times
+
+Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the instructor) starting on April 14th.
+
 
 # Syllabus
 
-| Session | Topic | Content |
-|---------|-------|---------|
-|| **R Basics** ||
-| 01 | The very basics              | Course introduction, expectations, organisational matters, data and information, R, R Studio, R Markdown, GitHub |
-| 02 | More basics                  | Working environment, data types, object types, operators, indexing, plotting, reading and writing |
-| 03 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
-|| **Species Distribution Modelling** ||
-| 04 | SDM theory                   | Niches, climate space, biotic and abiotic interactions, dispersal   |
-| 05 | SDM methods I                | Student presentations and examples with toy data: Profile methods, classical regression models |
-| 06 | SDM methods II               | Student presentations and examples with toy data: Machine learning methods, Bayesian methods, others   |
-|| **Research project** ||
-| 07 | Outline                      | Project introduction, objectives, procedure, available data, data to be obtained |
-| 08 | Dealing with real data       | Reading, tailoring, NA handling, reprojecting, describing, visualising, aggregating, merging, subsetting and writing of the project dataset |
-| 09 | Dataset complementation I    | Adding raster remote sensing data to the project dataset |
-| 10 | Dataset complementation II   | Adding vector distribution data to the project dataset: Georeferencing |
-| 11 | Modelling I                  | Area-wide predictive modelling |
-| 12 | Modelling II                 | Area-wide predictive modelling |
-| 13 | Software development                   | Test and debug software for digitizing species records |
-|| **Wrap up** ||
-| 14 | Paper writing (optional)               | Discussion of manuscript content, candidate journals, and potential individual contributions|
+| Session |  Date | Topic                        | Content                                                                          |
+|---------|-------|------------------------------|----------------------------------------------------------------------------------|
+||| **Basics** ||
+| 01 | 14.04.2021 | The very basics              | Course introduction, expectations, organisational matters, data and information, R, R Studio, R Markdown, GitHub     |
+| 02 | 21.04.2021 | More basics                  | Working environment, data types, object types, operators, indexing, plotting, reading and writing                    |
+| 03 | 28.04.2021 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
+| 04 | 05.05.2021 | SDM theory                   | Niches, climate space, biotic and abiotic interactions, dispersal. Student SDM assignments                           |
+||| **Digitizing distribution records**          ||
+| 05 | 12.05.2021 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
+| 06 | 19.05.2021 | Software development II      | Work on projects                                                                  |
+| 07 | 26.05.2021 | Software development III     | Work on projects                                                                  |
+||| **Project week University of Marburg**       ||
+| ~~08~~ | ~~02.06.2021~~ | Project week         | Session cancelled |
+||| **Species Distribution Modelling**           ||
+| 09 | 09.06.2021 | SDM methods I                | Student presentations and examples with toy data: Profile methods, classical regression models |
+| 10 | 16.06.2021 | SDM methods II               | Student presentations and examples with toy data: Machine learning methods                     |
+| 11 | 23.06.2021 | SDM methods III              | Student presentations and examples with toy data: Bayesian methods, model averaging            |
+||| **Synthesis**                                ||
+| 12 | 30.06.2021 | Merging digitized data       | Merging all digitized data into one dataset |
+| 13 | 07.07.2021 | Modelling merged data        | Area-wide predictive modelling |
+| 14 | 14.07.2021 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
 
 
 # Deliverables
