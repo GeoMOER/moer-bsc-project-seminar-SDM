@@ -11,7 +11,7 @@ header:
   cta_url: "/units.html"
 excerpt: Get an overview of species distribution modelling techniques, use R for handling, modelling and visualizing geo-datasets, and conjointly develop software for digitizing species distribution records
 feature_row_intro:
-- excerpt: Bachelor level course in [Physical Geography](https://www.uni-marburg.de/en/fb19/disciplines/physisch){:target="_blank"} at Marburg University
+- excerpt: International course of the Department of [Physical Geography](https://www.uni-marburg.de/en/fb19/disciplines/physisch){:target="_blank"} at Marburg University
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -25,18 +25,18 @@ Species distribution modelling (SDM) is a key competence for ecogeographical res
 It allows researchers to estimate current distributions of species and to also predict their future distributions under climate change scenarios.
 SDM encompasses various area-wide spatial predictions techniques and requires profound skills related to organizing, handling, analyzing and visualizing of geodata. 
 
-By using the programming environment R, this course will open the door to the cosmos of SDM techniques and will provide a flexible baseline for workflow automation in real research projects. Special emphasis will be on R Markdown for proper documentation and reproducibility. 
+By using the programming environment R, this course will open the door to the cosmos of SDM techniques and will provide a flexible baseline for workflow automation in various research projects. Special emphasis will be on R Markdown and GitHub for proper documentation and reproducibility. 
 
 
 # Intended learning outcomes
 At the end of this course you should be able to
 
+* feel comfortable with the usage of R and GitHub,
 * distinguish between and apply major SDM techniques,
-* feel comfortable with the usage of R,
 * analyse, share and reproduce your spatial data with R Markdown,
 * use open GIS to manage, visualize and georeference your spatial data,
 * include and process remote sensing data in your workflow,
-* learn how to implement a publication project in a collaborative approach, and last but not least to
+* learn how to implement a research project in a collaborative approach, and last but not least to
 * critically evaluate your analyses and results.
 
 
@@ -61,7 +61,7 @@ Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the ins
 | Session |  Date | Topic                        | Content                                                                          |
 |---------|-------|------------------------------|----------------------------------------------------------------------------------|
 ||| **Basics** ||
-| 01 | 14.04.2021 | The very basics              | Course introduction, expectations, organisational matters, data and information, R, R Studio, R Markdown, GitHub     |
+| 01 | 14.04.2021 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
 | 02 | 21.04.2021 | More basics                  | Working environment, data types, object types, operators, indexing, plotting, reading and writing                    |
 | 03 | 28.04.2021 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
 | 04 | 05.05.2021 | SDM theory                   | Niches, climate space, biotic and abiotic interactions, dispersal. Student SDM assignments                           |
@@ -69,12 +69,12 @@ Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the ins
 | 05 | 12.05.2021 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
 | 06 | 19.05.2021 | Software development II      | Work on projects                                                                  |
 | 07 | 26.05.2021 | Software development III     | Work on projects                                                                  |
-||| **Project week University of Marburg**       ||
+||| **Project week Department of Geography**       ||
 | ~~08~~ | ~~02.06.2021~~ | Project week         | Session cancelled |
 ||| **Species Distribution Modelling**           ||
-| 09 | 09.06.2021 | SDM methods I                | Student presentations and examples with toy data: Profile methods, classical regression models |
-| 10 | 16.06.2021 | SDM methods II               | Student presentations and examples with toy data: Machine learning methods                     |
-| 11 | 23.06.2021 | SDM methods III              | Student presentations and examples with toy data: Bayesian methods, model averaging            |
+| 09 | 09.06.2021 | SDM methods I                | Student presentations and examples: Profile methods, classical regression models |
+| 10 | 16.06.2021 | SDM methods II               | Student presentations and examples: Machine learning methods                     |
+| 11 | 23.06.2021 | SDM methods III              | Student presentations and examples: Bayesian methods, model averaging            |
 ||| **Synthesis**                                ||
 | 12 | 30.06.2021 | Merging digitized data       | Merging all digitized data into one dataset |
 | 13 | 07.07.2021 | Modelling merged data        | Area-wide predictive modelling |
