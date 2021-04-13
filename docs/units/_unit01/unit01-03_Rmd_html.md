@@ -11,7 +11,8 @@ This page shows how a compiled R markdown file looks like (in fact, all code exa
 This is an R Markdown document. Markdown is a simple formatting syntax for creating HTML, PDF, and MS Word documents. 
 For more details on using R Markdown see [rmarkdown.rstudio.com](http://rmarkdown.rstudio.com){:target="_blank"}.
 
-When you click the **Knit** button in RStudio, a document will be generated which includes both content as well as the output of any embedded R code chunks *within* the document.
+When you click the **Knit** button in RStudio (only available for .Rmd files), a document will be generated, 
+which includes both content as well as the output of any embedded R code chunks *within* the document.
 You can embed an R code chunk like this:
 
 
