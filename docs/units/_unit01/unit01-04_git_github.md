@@ -1,5 +1,8 @@
 ---
 title: Git and GitHub
+header:
+  image: '/assets/images/titleimage/QGIS_Pakistan_3.png'
+  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
 Learn the essential for working with Git and GitHub.

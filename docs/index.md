@@ -62,7 +62,7 @@ Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the ins
 |---------|-------|------------------------------|----------------------------------------------------------------------------------|
 ||| **Basics** ||
 | 01 | 14.04.2021 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
-| 02 | 21.04.2021 | More basics                  | Working environment, data types, object types, operators, indexing, plotting, reading and writing                    |
+| 02 | 21.04.2021 | More basics                  | Data types, object types, indexing, work environment, data input and output                    |
 | 03 | 28.04.2021 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
 | 04 | 05.05.2021 | SDM theory                   | Niches, climate space, biotic and abiotic interactions, dispersal. Student SDM assignments                           |
 ||| **Digitizing distribution records**          ||

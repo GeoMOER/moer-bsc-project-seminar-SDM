@@ -1,5 +1,8 @@
 ---
 title: Overview
+header:
+  image: '/assets/images/titleimage/QGIS_Pakistan_3.png'
+  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
 Go through a brute force introduction into R, R Markdown, the RStudio IDE, version management with Git and GitHub's classroom functionality to get ready for solving the upcoming assignment problems and submitting your solutions.

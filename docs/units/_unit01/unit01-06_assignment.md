@@ -1,12 +1,15 @@
 ---
 title: "Marked Assignment: Hello R, Hello GitHub"
+header:
+  image: '/assets/images/titleimage/QGIS_Pakistan_3.png'
+  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 toc: true
 toc_label: In this worksheet
 ---
 
-This worksheet introduces you to R, R scripts and R markdown. Your submission will be pushed to your class repository at GitHub. After completion you should have gained some experience in running R commands within scripts, R markdown for running code and documentation within one file and Git/GitHub.
+This assignment introduces you to R, R scripts and R markdown. Your submission will be pushed to your class repository at GitHub. After completion you should have gained some experience in running R commands within scripts, R markdown for running code and documentation within one file and Git/GitHub.
 
-## Things you need for this worksheet
+## Things you need for this assignment
   * [R](https://cran.r-project.org/){:target="_blank"} — the interpreter can be installed on any operation system.
   * [RStudio](https://www.rstudio.com/){:target="_blank"} — we recommend to use R Studio for (interactive) programming with R.
   * [Git](https://git-scm.com/downloads){:target="_blank"} environment for your operating system. For Windows users with little experience on the command line we recommend [GitHub Desktop](https://desktop.github.com/){:target="_blank"}.

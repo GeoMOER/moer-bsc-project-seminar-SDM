@@ -1,5 +1,5 @@
 ---
-title: "Spatial Data"
+title: "Overview"
 ---
 
 Get a brute-force introduction to working with different kinds of spatial data in R.

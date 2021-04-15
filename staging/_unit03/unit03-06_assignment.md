@@ -1,5 +1,5 @@
 ---
-title: "Exercise: Spatial Data Processing"
+title: "Marked Assignment: Spatial Data Processing"
 ---
 
 This exercise will lead you through some of the most basic and important steps for spatial data processing.
