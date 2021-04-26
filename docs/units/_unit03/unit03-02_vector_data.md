@@ -22,7 +22,7 @@ In the context of spatial data and Geographic Information Systems, nodes are usu
 
 ### More Information
 
-* More detailed information for vector data can be found at [Geocomputation with R - Vector data](https://geocompr.robinlovelace.net/spatial-class.html#raster-data){:target="_blank"}.
+* More detailed information for vector data can be found at [Geocomputation with R - Vector data](https://geocompr.robinlovelace.net/spatial-class.html#vector-data){:target="_blank"}.
 
 
 <!-- more examples to be added in some bright future -->

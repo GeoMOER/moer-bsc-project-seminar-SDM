@@ -77,7 +77,7 @@ Fortunately, also these downloaded data already have a CRS, defined by a _proj4 
 ```
 
 Note that the object type here is a `SpatialPolygonsDataFrame` (defined in package `sp`) with one _feature_ (i.e. with a single polygon), 
-a certain _extent_ (which can also be extracted with `extent(fra)`), a _CRS_ (which also be extracted with `CRS(fra)`), and two _variables_ with some _values_ (in this case country abbreviation and name).
+a certain _extent_ (which can also be extracted with `extent(fra)`), a _CRS_ (which can be extracted with `CRS(fra)`), and two _variables_ with some _values_ (in this case country abbreviation and name).
 
 
 Also vector data can quickly and simply be visualized with `plot()`
@@ -95,8 +95,8 @@ plot(fra)
 
 We can use the extent of one spatial object to _crop_ (i.e. to cut out) another spatial object.
 In this example, we will crop the raster map(s) with the extent defined in the vector object. 
-This is going to work because both objects have the same coordinates and CRS.
-Note that `crop()` processes all layers in the input raster stack.
+This is going to work because both objects have the same CRS.
+Note that `crop()` processes all layers of the input raster stack.
 
 
 
