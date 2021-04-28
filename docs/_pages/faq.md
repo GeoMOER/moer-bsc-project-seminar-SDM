@@ -19,6 +19,12 @@ https://github.com/GeoMOER-Students-Space/bsc-species-distribution-modelling-202
 Enter the url of your GitHub Classroom repository in a web browser and check if they are there.
 
 
+### How can I check if the HTML files in my GitHub repository have the right content?
+
+You can check the contents of your (HTML) files by downloading them from the remote repository to your local computer. 
+Therefore, press "code" (the green button) and then "download zip" in your repository using your internet browser.
+After downloading, you can open and render HTML files with your browser.
+
 
 
 
