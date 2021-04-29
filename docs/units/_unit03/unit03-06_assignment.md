@@ -20,7 +20,7 @@ Create a map of your country of residence with the following features:
 - a raster background map showing elevation data,
 - a vector map showing the country boundary,
 - use the vector map to clip the raster map,
-- map point locations denoting the places of residence of the course participants in your country (if any), which you can enter [here](https://hessenbox.uni-marburg.de/open/MlNubnZ2QTN2OEx1ZWs2S2VqYnVh/data/participant_locations.xlsx){:target="_blank"}
+- map point locations denoting the places of residence of the course participants in your country (if any), which you can enter [here](https://hessenbox.uni-marburg.de/getlink/fiCruTea63BthAw3mSkgB9xk/participant_locations.xlsx){:target="_blank"}
 (use a `SpatialPointsDataFrame` object with the correct CRS for this task),
 - map the three largest cities of your selected country with different symbols, and
 - get bonus points by adding a legend, rivers, and other cartographic elements as well as
