@@ -104,7 +104,7 @@ collections:
   unit09:
     output: true
     permalink: /:collection/:title.html
-  unit10:
+  unit99:
     output: true
     permalink: /:collection/:title.html
 #  unit11:
@@ -166,13 +166,13 @@ defaults:
       layout: single
       sidebar:
         nav: "units" 
-  # unit05
+  # student_tutorials
   - scope:
       path: ""
-      type: unit05
+      type: unit99
     values:
-      category: "05 SDM Methods I"
-      tags: "Unit 05"
+      category: "Examples: Student tutorials"
+      tags: "Examples: Student tutorials"
       layout: single
       sidebar:
         nav: "units" 
