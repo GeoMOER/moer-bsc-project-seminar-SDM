@@ -64,7 +64,7 @@ Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the ins
 | 01 | 14.04.2021 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
 | 02 | 21.04.2021 | More basics                  | Data types, object types, indexing, work environment, data input and output                    |
 | 03 | 28.04.2021 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
-| 04 | 05.05.2021 | SDM theory                   | Niches, climate space, biotic and abiotic interactions, dispersal. Student SDM assignments                           |
+| 04 | 05.05.2021 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
 ||| **Digitizing distribution records**          ||
 | 05 | 12.05.2021 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
 | 06 | 19.05.2021 | Software development II      | Work on projects                                                                  |
@@ -72,9 +72,9 @@ Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the ins
 ||| **Project week Department of Geography**       ||
 | ~~08~~ | ~~02.06.2021~~ | Project week         | Session cancelled |
 ||| **Species Distribution Modelling**           ||
-| 09 | 09.06.2021 | SDM methods I                | Student presentations and examples: Profile methods, classical regression models |
-| 10 | 16.06.2021 | SDM methods II               | Student presentations and examples: Machine learning methods                     |
-| 11 | 23.06.2021 | SDM methods III              | Student presentations and examples: Bayesian methods, model averaging            |
+| 09 | 09.06.2021 | SDM methods I                | Student tutorials presentations: Profile and regression methods                                 |
+| 10 | 16.06.2021 | SDM methods II               | Student tutorials presentations: Machine learning methods I                                     |
+| 11 | 23.06.2021 | SDM methods III              | Student tutorials presentations: Machine learning methods II, model averaging                   |
 ||| **Synthesis**                                ||
 | 12 | 30.06.2021 | Merging digitized data       | Merging all digitized data into one dataset |
 | 13 | 07.07.2021 | Modelling merged data        | Area-wide predictive modelling |
