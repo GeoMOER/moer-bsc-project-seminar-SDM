@@ -1,5 +1,8 @@
 ---
 title: Indexing
+header:
+  image: '/assets/images/teaserimages/RStudio.png'
+  caption: '[RStudio](https://www.rstudio.com/){:target="_blank"}'
 ---
 
 Learn how to access your data in R objects.

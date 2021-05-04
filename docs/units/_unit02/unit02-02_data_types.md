@@ -1,5 +1,8 @@
 ---
 title: Data Types
+header:
+  image: '/assets/images/teaserimages/RStudio.png'
+  caption: '[RStudio](https://www.rstudio.com/){:target="_blank"}'
 ---
 
 Learn how data is measured and organized from an R perspective.

@@ -1,5 +1,8 @@
 ---
 title: "Vector Data"
+header:
+  image: '/assets/images/teaserimages/world_temp.png'
+  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
 Vector data consists of potentially linked points defined by coordinates that can form complex geometries with assigned attributes.

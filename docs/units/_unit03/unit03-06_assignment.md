@@ -1,5 +1,8 @@
 ---
 title: "Marked Assignment: Spatial Data Processing"
+header:
+  image: '/assets/images/teaserimages/world_temp.png'
+  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
 This exercise will lead you through some of the most basic and important steps for spatial data processing.

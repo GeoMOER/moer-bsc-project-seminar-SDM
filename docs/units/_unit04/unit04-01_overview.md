@@ -1,5 +1,8 @@
 ---
 title: Overview
+header:
+  image: '/assets/images/teaserimages/presence_absence.png'
+  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
 Learn why Species Distribution Modelling (SDM) is necessary, what SDM can be used for, as well as the underlying ecological concepts of SDM.

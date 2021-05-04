@@ -2,6 +2,9 @@
 title: "Assignment: Input and Output of Data"
 toc: true
 toc_label: In this worksheet
+header:
+  image: '/assets/images/teaserimages/RStudio.png'
+  caption: '[RStudio](https://www.rstudio.com/){:target="_blank"}'
 ---
 
 This assignment introduces you to data input and output with R and will strengthen your skills in work directory management.

@@ -1,5 +1,9 @@
 ---
 title: "Overview"
+header:
+  image: '/assets/images/teaserimages/RStudio.png'
+  caption: '[RStudio](https://www.rstudio.com/){:target="_blank"}'
+
 ---
 
 Learn how data can be measured and represented by different data types before focussing on how these data types are structured in object types in R.
