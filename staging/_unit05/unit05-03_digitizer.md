@@ -6,14 +6,20 @@ header:
 ---
 
 
-text
+-- work in progress  --
 
 
 
 ## Project introduction
 
 
-[Distribution Digitizer](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/)
+-- include text of boost proposal --
+
+
+
+## Project homepage
+
+The project homepage can be found [here](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/){:target="_blank"}.
 
 
 

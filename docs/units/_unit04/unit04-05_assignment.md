@@ -8,7 +8,9 @@ header:
 Get familiar with relevant references for SDM and prepare an HTML tutorial for a particular modelling technique.
 
 
-## References
+## Things you need for this assignment
+
+### References
 
 Start with the excellent general overviews by Robert J. Hijmans and Jane Elith on [www.rspatial.org](https://www.rspatial.org/sdm/SDM.pdf){:target="_blank"} 
 and by Damaris Zurell on [damariszurell.github.io](https://damariszurell.github.io/SDM-Intro/){:target="_blank"}.
@@ -29,13 +31,21 @@ Finally, get more specific by checking out the example unit with SDM tutorials c
 (direct link [here]({{ "unit99/student_tutorials-01_overview.html" | absolute_url }}){:target="_blank"}.)
 
 
+### Data
+
+Point data of the butterflies of Pakistan (and Ladakh) can be downloaded 
+[here](https://hessenbox.uni-marburg.de/getlink/fiL1HmupifwN8jjHeBFvdAxH/PakistanLadakh.csv).
+
+
 ## Deliverables
 
-Prepare a markdown-based HTML Tutorial for your individual SDM method and present it in the course.
-Plan with 30 minutes minimum up to one hour for each tutorial presentation.
+* Prepare a markdown-based HTML Tutorial for your individual SDM method and present it in the course.
+Use the provided point data on the occurrence of butterflies in Pakistan for creating a species richness map of butterflies for this country.
+* Plan with 30 minutes minimum up to one hour for each tutorial presentation.
 The dates for the presentations can be found in the syllabus on the [course front page]({{ "index.html" | absolute_url }}).
 
-Note that you will need to gather considerably more information to solve this taks than provided in the input parts of this course.
+
+Note that you will need to gather considerably more information to solve this task than provided in the input parts of this course.
 Note also that you do not need to understand every mathematical detail of your method but rather make your peers understand how your method is correctly applied with an appealing tutorial.
 
 
