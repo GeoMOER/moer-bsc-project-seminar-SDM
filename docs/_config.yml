@@ -161,18 +161,18 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "04 SDM Basics"
+      category: "04 SDM basics"
       tags: "Unit 04"
       layout: single
       sidebar:
         nav: "units" 
-  # student_tutorials
+  # unit05
   - scope:
       path: ""
-      type: unit99
+      type: unit05
     values:
-      category: "Examples: Student tutorials"
-      tags: "Examples: Student tutorials"
+      category: "05 Digitizing distribution records"
+      tags: "Unit 05"
       layout: single
       sidebar:
         nav: "units" 
@@ -235,7 +235,17 @@ defaults:
       tags: "Unit 11"
       layout: single
       sidebar:
-        nav: "units"         
+        nav: "units"
+  # student_tutorials
+  - scope:
+      path: ""
+      type: unit99
+    values:
+      category: "Examples: Student tutorials"
+      tags: "Examples: Student tutorials"
+      layout: single
+      sidebar:
+        nav: "units"            
   # pages
   - scope:
       path: "_pages"
