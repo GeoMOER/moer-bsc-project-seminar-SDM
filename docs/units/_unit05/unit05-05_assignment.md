@@ -33,10 +33,11 @@ and will be individually assigned during the session.
 
 ## Deliverables
 
-1. Find the real size in cm² of the input images by trying several resolutions in dots per inch (DPI).
+1. Find the real size in cm² of maps on your test images by trying several resolutions in dots per inch (DPI).
 1. Find the maximum value for the threshold of template matching.
-1. Write down everything you found to be annoying while using the Digitizer. 
-Being honest is highly appreciated as it will help us improve the software. Also save error messagesm which will help with troubleshooting. 
+1. Most important: Write down everything you found to be annoying while using the Digitizer. 
+Being honest is highly appreciated as it will help us improve the software. 
+Also save error messages, which will help us with troubleshooting. 
 
 We will collect and discuss the real size and threshold values with examples in the next session.
 This assignment will NOT be marked.
