@@ -5,7 +5,7 @@ header:
   caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
-Start to learn the essential for working with R and RStudio.
+Start to learn the essentials for working with R and RStudio.
 <!--more-->
 
 ## First steps in R and RStudio

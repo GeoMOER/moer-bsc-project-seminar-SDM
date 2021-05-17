@@ -1,7 +1,7 @@
 ---
 title: The Digitizer
 header:
-  image: '/assets/images/teaserimages/digitizer_teaser.jpg'
+  image: '/assets/images/digitizer/digitizer_teaser.png'
   caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 toc: true
 ---

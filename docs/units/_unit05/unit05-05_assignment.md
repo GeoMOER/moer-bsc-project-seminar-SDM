@@ -1,7 +1,7 @@
 ---
 title: "Assignment: Detecting maps on scanned book pages"
 header:
-  image: '/assets/images/teaserimages/digitizer_teaser.jpg'
+  image: '/assets/images/digitizer/digitizer_teaser_object_detection.png'
   caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
