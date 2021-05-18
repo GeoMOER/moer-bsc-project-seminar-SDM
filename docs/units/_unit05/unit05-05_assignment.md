@@ -9,7 +9,7 @@ Now the time has come to test the digitizer for a specific task.
 Let us assume that you already obtained a book with distribution maps, scanned it, stored it and preprocessed the data.
 Then the next step would be to detect maps on the digital images of pages in that book.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/digitizer/digitizer_teaser_object_detection.jpg" alt="caption" class="full">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/digitizer/digitizer_teaser_object_detection.png" alt="caption" class="full">
 <figcaption> 
 Step "Object detection" for detecting maps on scanned book pages in the workflow of the Digitizer.
 </figcaption>
