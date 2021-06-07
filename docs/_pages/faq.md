@@ -37,18 +37,18 @@ The page with the description of this assignment can be found [here](https://geo
 
 ### Schedule
 
-9.6.2021: Profile and regression methods
+9.6.2021: SDM Methods I
 - Bioclim (Mona Hallenberger)
-- Domain (Gabriel Behnke)
 - Generalized linear models (Katharina Kunstman)
 - Generalized additive models (Jens Meyer)
 
-16.6.2021: Machine learning methods I
+16.6.2021: SDM Methods II
+- Domain (Gabriel Behnke)
 - Random forest (Leander Heyer)
 - Neural networks (Sascha Lüer)
 - MaxEnt (Daniel Bothe)
 
-23.6.2021: Machine learning methods II, Ensemble methods
+23.6.2021:  SDM Methods III
 - XG Boost (Jan-Niklas Tripp)
 - Ensemble methods (Luis Maecker)
 
