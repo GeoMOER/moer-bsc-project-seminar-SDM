@@ -79,9 +79,17 @@ You may want to use the 50 km x 50 km grid system, which is a compromise between
 * The aim of the tutorials is to teach others how your method works and how it is applied. Special emphasis should be given to an appealing, reproducible and self-explanatory HTML page for your method.
 * Technically, the result of your modelling workflow should be a map of the species numbers of butterflies in Pakistan. 
 This means each cell of your grid system has as value the sum of the occurring species in this cell. So yes, you need to model all species separately and sum up the occurring species within each cell.
+* A possible structure for your tutorial can be found in unit 4 ("SDM workflow"). Do not forget to include the basics for making others understand how your method works ("conceptual underpinning").
+* Make sure that your tutorial is reproducible. If you want to be really professional, include the output of sessionInfo() at the end of your tutorial.
 * Start early! This is going to be quite some work. Use the tutorials of former students as orientation.
-* The student tutorial will make up 50% of overall grade.
+* The student tutorial will make up 50% of your overall grade.
 * If live processing of your script takes too much time, use screenshots and add them to your HTML page, which should be self-explanatory anyways.
+* Describe with text for each processing step why it is done and what for.
+* Include references to relevant papers, internet sources and data.
+* Check your spelling.
+
+
+
 
 
 
