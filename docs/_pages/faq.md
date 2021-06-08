@@ -39,7 +39,6 @@ The page with the description of this assignment can be found [here](https://geo
 
 9.6.2021: SDM Methods I
 - Bioclim (Mona Hallenberger)
-- Generalized linear models (Katharina Kunstman)
 - Generalized additive models (Jens Meyer)
 
 16.6.2021: SDM Methods II
@@ -47,6 +46,7 @@ The page with the description of this assignment can be found [here](https://geo
 - Random forest (Leander Heyer)
 - Neural networks (Sascha Lüer)
 - MaxEnt (Daniel Bothe)
+- if time left: Generalized linear models (Katharina Kunstman)
 
 23.6.2021:  SDM Methods III
 - XG Boost (Jan-Niklas Tripp)
