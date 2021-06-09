@@ -35,11 +35,10 @@ This course gives 6 (ECTS) credit points, making up a total of 180 hours workloa
 
 The page with the description of this assignment can be found [here](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit04/unit04-05_assignment.html).
 
-### Schedule
+### Schedule (as of 9.6.2021)
 
 9.6.2021: SDM Methods I
 - Bioclim (Mona Hallenberger)
-- Generalized additive models (Jens Meyer)
 
 16.6.2021: SDM Methods II
 - Domain (Gabriel Behnke)
@@ -47,6 +46,8 @@ The page with the description of this assignment can be found [here](https://geo
 - Neural networks (Sascha Lüer)
 - MaxEnt (Daniel Bothe)
 - if time left: Generalized linear models (Katharina Kunstman)
+- if time left: Generalized additive models (Jens Meyer)
+
 
 23.6.2021:  SDM Methods III
 - XG Boost (Jan-Niklas Tripp)
