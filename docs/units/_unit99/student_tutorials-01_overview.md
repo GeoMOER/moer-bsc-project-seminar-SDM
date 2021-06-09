@@ -17,7 +17,9 @@ Note that each link opens a new tab because the embedded documents are the HTML 
 
 ### [Generalized Linear Models]({{ "unit99/student_tutorials-02_GLM.html" | absolute_url }}){:target="_blank"}
 
-### [Bioclim]({{ "unit99/student_tutorials-03_bioclim.html" | absolute_url }}){:target="_blank"}
+### [Bioclim I]({{ "unit99/student_tutorials-03a_bioclim.html" | absolute_url }}){:target="_blank"}
+
+### [Bioclim II]({{ "unit99/student_tutorials-03b_bioclim.html" | absolute_url }}){:target="_blank"}
 
 ### [MaxEnt]({{ "unit99/student_tutorials-04_maxent.html" | absolute_url }}){:target="_blank"}
 
