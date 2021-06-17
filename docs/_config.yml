@@ -241,8 +241,8 @@ defaults:
       path: ""
       type: unit99
     values:
-      category: "Examples: Student tutorials"
-      tags: "Examples: Student tutorials"
+      category: "Student tutorials"
+      tags: "Student tutorials"
       layout: single
       sidebar:
         nav: "course_unit"            
