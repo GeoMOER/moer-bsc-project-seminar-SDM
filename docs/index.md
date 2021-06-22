@@ -69,15 +69,15 @@ Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the ins
 | 05 | 12.05.2021 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
 | 06 | 19.05.2021 | Software development II      | Work on projects                                                                  |
 | 07 | 26.05.2021 | Software development III     | Work on projects                                                                  |
-||| **Project week Department of Geography**       ||
+||| **Project week Department of Geography**     ||
 | ~~08~~ | ~~02.06.2021~~ | Project week         | Session cancelled |
 ||| **Species Distribution Modelling**           ||
 | 09 | 09.06.2021 | SDM methods I                | Student tutorials presentations: Profile and regression methods                                 |
 | 10 | 16.06.2021 | SDM methods II               | Student tutorials presentations: Machine learning methods I                                     |
 | 11 | 23.06.2021 | SDM methods III              | Student tutorials presentations: Machine learning methods II, model averaging                   |
 ||| **Synthesis**                                ||
-| 12 | 30.06.2021 | Merging digitized data       | Merging all digitized data into one dataset |
-| 13 | 07.07.2021 | Modelling merged data        | Area-wide predictive modelling |
+| 12 | 30.06.2021 | Applying the software        | Use the digitizer for extracting butterfly distribution records across Asia  |
+| 13 | 07.07.2021 | Merging and modelling        | Merging all digitized data into one dataset and area-wide predictive modelling |
 | 14 | 14.07.2021 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
 
 
