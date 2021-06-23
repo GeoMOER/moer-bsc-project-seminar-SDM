@@ -33,4 +33,6 @@ Note that each link opens a new tab because the embedded documents are the HTML 
 
 ### [Domain (coming soon)]({{ "unit99/student_tutorials-08a_Domain_Behnke.html" | absolute_url }}){:target="_blank"}
 
+### [XGboost (coming soon)]({{ "unit99/student_tutorials-09a_xgboost_Tripp.html" | absolute_url }}){:target="_blank"}
+
 

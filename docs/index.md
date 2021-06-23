@@ -76,7 +76,7 @@ Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the ins
 | 10 | 16.06.2021 | SDM methods II               | Student tutorials presentations: Machine learning methods I                                     |
 | 11 | 23.06.2021 | SDM methods III              | Student tutorials presentations: Machine learning methods II, model averaging                   |
 ||| **Synthesis**                                ||
-| 12 | 30.06.2021 | Applying the software        | Use the digitizer for extracting butterfly distribution records across Asia  |
+| 12 | 30.06.2021 | Applying the software / SDM methods extra        | Use the digitizer for extracting butterfly distribution records across Asia  |
 | 13 | 07.07.2021 | Merging and modelling        | Merging all digitized data into one dataset and area-wide predictive modelling |
 | 14 | 14.07.2021 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
 
