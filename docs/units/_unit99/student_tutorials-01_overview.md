@@ -19,6 +19,8 @@ Note that each link opens a new tab because the embedded documents are the HTML 
 
 ### [Generalized Linear Models]({{ "unit99/student_tutorials-02a_GLM_Dickhardt.html" | absolute_url }}){:target="_blank"}
 
+### [Generalized Additive Models (coming soon)]({{ "unit99/student_tutorials-02b_GAM_Meyer.html" | absolute_url }}){:target="_blank"}
+
 ### [Bioclim I]({{ "unit99/student_tutorials-03a_bioclim_Gabriel.html" | absolute_url }}){:target="_blank"}
 
 ### [Bioclim II]({{ "unit99/student_tutorials-03b_bioclim_Hallenberger.html" | absolute_url }}){:target="_blank"}
@@ -31,7 +33,7 @@ Note that each link opens a new tab because the embedded documents are the HTML 
 
 ### [Support Vector Machines]({{ "unit99/student_tutorials-07a_SVM_Nuhn.html" | absolute_url }}){:target="_blank"}
 
-### [Domain (coming soon)]({{ "unit99/student_tutorials-08a_Domain_Behnke.html" | absolute_url }}){:target="_blank"}
+### [Domain]({{ "unit99/student_tutorials-08a_Domain_Behnke.html" | absolute_url }}){:target="_blank"}
 
 ### [XGboost (coming soon)]({{ "unit99/student_tutorials-09a_xgboost_Tripp.html" | absolute_url }}){:target="_blank"}
 
