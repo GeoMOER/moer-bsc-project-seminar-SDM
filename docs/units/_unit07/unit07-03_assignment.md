@@ -35,22 +35,21 @@ The updated tutorial for executing the Digitizer can be found on the [Digitizer 
 ## Which book to choose?
 
 
-Book title 									                     | Folder name | International participant   | German participant |
+Book title                                                       | Folder name | International participant   | German participant |
 -----------------------------------------------------------------|-------------------------------------------|--------------------|
-The Butterflies of Turkmenistan 				                 | book_01     | Mohammed Ahmed              | Gabriel Behnke     |
-The Butterflies of Altai, Sayans and Tuva 			             | book_02     | Hanny Lidetu Solomon        | Daniel Bothe       |
+The Butterflies of Altai, Sayans and Tuva 			 | book_02     | Hanny Lidetu Solomon        | Daniel Bothe       |
 The Butterflies of Russian Far East, Sakhalin, and Kuril Islands | book_03     | Lidet Mehari Mulatu         | Mona Hallenberger  |
-The Butterflies of Mongolia 						             | book_04     | Tesfanesh Feseha Ashagre    | Leander Heyer      |
-The Butterflies of Transbaikal Siberia 				             | book_05     | Bezawit Genanaw Alemayehu   | Katharina Kunstman |
-The Butterflies of Tajikistan 						             | book_06     | Haseeb Kamran               | Sascha Lüer        |
-The Butterflies of Kazakhstan 					                 | book_07     | Maria Riaz                  | Luis Maecker       |
-The Butterflies of Kyrgyzstan 						             | book_08     | M. Anwar-ul-Haq             | Jens Meyer         |
-The Butterflies of Uzbekistan 					                 | book_09     | M. Majid Ijaz               | Jan-Niklas Tripp   |
-The Butterflies of Caucasus and Transcaucasia 				     | book_10     | Muhammad Farooq             |                    |
-The Butterflies of Iran and Iraq 					             | book_11     | Mazhar Hussain              |                    |
-The Butterflies of Ladak 						                 | book_12     | Uneeba Shahid               |                    |
-The Butterflies of Pakistan 						             | book_13     | Muhammad Hamza Khan         |                    |
-The Butterflies of Afghanistan 					                 | book_14     | Zain Umer                   |                    |
+The Butterflies of Mongolia 					 | book_04     | Tesfanesh Feseha Ashagre    | Leander Heyer      |
+The Butterflies of Transbaikal Siberia 				 | book_05     | Bezawit Genanaw Alemayehu   | Katharina Kunstman |
+The Butterflies of Tajikistan 					 | book_06     | Haseeb Kamran               | Sascha Lüer        |
+The Butterflies of Kazakhstan 					 | book_07     | Maria Riaz                  | Luis Maecker       |
+The Butterflies of Kyrgyzstan 					 | book_08     | M. Anwar-ul-Haq             | Jens Meyer         |
+The Butterflies of Uzbekistan 					 | book_09     | M. Majid Ijaz               | Jan-Niklas Tripp   |
+The Butterflies of Caucasus and Transcaucasia 			 | book_10     | Muhammad Farooq             |                    |
+The Butterflies of Iran and Iraq 				 | book_11     | Mazhar Hussain              |                    |
+The Butterflies of Ladak 					 | book_12     | Uneeba Shahid               |                    |
+The Butterflies of Pakistan 					 | book_13     | Muhammad Hamza Khan         | Gabriel Behnke     |
+The Butterflies of Afghanistan 					 | book_14     | Zain Umer                   | Mohammed Ahmed     |
 -----------------------------------------------------------------|-------------|-----------------------------|--------------------|
 
 
