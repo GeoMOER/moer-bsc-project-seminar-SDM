@@ -13,7 +13,7 @@ You will use QGIS for obtaining ground control points, which will then be fed in
 
 
 ## Tutorial on georeferencing
-The online resources for this unit can be found [here](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/tutorial.html){:target="_blank"}.
+The online resources for this unit can be found [here](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/theoretical_background.html){:target="_blank"}.
 
 
 

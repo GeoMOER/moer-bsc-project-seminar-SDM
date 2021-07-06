@@ -35,7 +35,7 @@ This course gives 6 (ECTS) credit points, making up a total of 180 hours workloa
 
 The page with the description of this assignment can be found [here](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit04/unit04-05_assignment.html).
 
-### Schedule (as of 23.6.2021)
+### Schedule (as of 06.07.2021)
 
 9.6.2021: SDM Methods I
 - Bioclim (Mona Hallenberger)
@@ -49,9 +49,7 @@ The page with the description of this assignment can be found [here](https://geo
 - Generalized additive models (Jens Meyer)
 
 30.6.2021:  SDM Methods extra
-- Generalized linear models (Katharina Kunstman)?
 - XG Boost (Jan-Niklas Tripp)
-- Ensemble methods (Luis Maecker)?
 
 
 ### Orientation
@@ -83,14 +81,39 @@ This means each cell of your grid system has as value the sum of the occurring s
 * A possible structure for your tutorial can be found in unit 4 ("SDM workflow"). Do not forget to include the basics for making others understand how your method works ("conceptual underpinning").
 * Make sure that your tutorial is reproducible. If you want to be really professional, include the output of sessionInfo() at the end of your tutorial.
 * Start early! This is going to be quite some work. Use the tutorials of former students as orientation.
-* The student tutorial will make up 50% of your overall grade.
+* The student tutorial will make up 50% of your overall grade. The German participants must prepare a tutorial for passing the course.
 * If live processing of your script takes too much time, use screenshots and add them to your HTML page, which should be self-explanatory anyways.
 * Describe with text for each processing step why it is done and what for.
 * Include references to relevant papers, internet sources and data.
 * Check your spelling.
 
 
+## Requirements for passing the course
 
+### German students
+
+If you have not yet done so, upload **all** four assignments to your personal GitHub classroom repository by **July 22th 2021** latest.
+Later uploads will not be accepted.
+Your mark is the weighted average of the marked assignments and the student tutorial.
+It will be forwarded to the department credit system if the above mentioned requirements are fulfilled.
+
+
+### International students
+
+If you have not yet done so, upload **all** four assignments to your personal GitHub classroom repository by **July 22th 2021** latest.
+Later uploads will not be accepted.
+If you need or would like to have a certificate for the course, please email the instructor.
+
+
+### Overview assignments
+
+Assignment 1: [Hello R, Hello GitHub](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit01/unit01-06_assignment.html)
+
+Assignment 2: [Input and Output of Data](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit02/unit02-06_assignment.html)
+
+Assignment 3: [Spatial Data Processing](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit03/unit03-06_assignment.html)
+
+Assignment 4: [Execute the Digitizer](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit07/unit07-03_assignment.html)
 
 
 

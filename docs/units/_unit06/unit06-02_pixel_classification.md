@@ -11,7 +11,7 @@ Pixel classification in this case means masking all pixels in a distribution map
 
 
 ## Tutorial on pixel classification
-The online resources for this unit can be found [here](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/tutorial.html){:target="_blank"}.
+The online resources for this unit can be found [here](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/theoretical_background.html){:target="_blank"}.
 
 
 
