@@ -6,7 +6,8 @@ header:
 toc: true
 ---
 
-Use the updated version of the Digitizer for detecting occurrence records on maps with pixel classification, transfer them to geographical space, and produce classified and georeferenced output files. 
+Use the updated version of the Digitizer for detecting occurrence records on maps with pixel classification, transfer them to geographical space, 
+produce classified and georeferenced output files, and extract the coordinates of the occurrence records. 
 
 
 ## Things you need for this assignment
@@ -27,7 +28,7 @@ The updated tutorial for executing the Digitizer can be found on the [Digitizer 
 
 ### Data
 
-- High resolution tiff files of your example pages will be provided by the instructors, [here](http://85.214.102.111/data/books_examples/){:target="_blank"}.
+- High resolution tiff files of your assigned book will be provided by the instructors, [here](http://85.214.102.111/data/books_full/){:target="_blank"}.
 
 
 
@@ -59,7 +60,7 @@ The Butterflies of Afghanistan 					 | book_14     | Zain Umer                  
 
 ## Assignment tasks
 
-Use the Digitizer to execute the following steps with the .tif images from the book of your choice:
+Use the Digitizer to execute the following steps with all .tif images from your assigned book:
 
 1) Set your working directory
 
@@ -89,7 +90,7 @@ Use the Digitizer to execute the following steps with the .tif images from the b
 
 
 Do not get confused with old versions of the Digitizer. 
-The most up-to-date version of the software and how to use it can be found on the [Digitizer webpage](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/){:target="_blank"}).
+The most up-to-date version of the software and how to use it can be found on the [Digitizer webpage](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/){:target="_blank"}.
 {: .notice--info}
 
 
@@ -97,7 +98,9 @@ The most up-to-date version of the software and how to use it can be found on th
 
 ## Deliverables
 
-* Upload the content of the Digitizer's data/output/georeferencing/ folder into your GitHub Classroom repository
+* Upload the content of the Digitizer's data/output/georeferencing/ folder into your GitHub Classroom repository. 
+Note that this might be quite large (~300 x 3MB). If your encounter internet upload problems, contact Madhu for sharing it outside of GitHub.
+
 * Please create a new folder for all content called "assignment_4" for this task in your repository
 
 
