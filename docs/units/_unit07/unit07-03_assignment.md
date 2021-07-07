@@ -81,6 +81,12 @@ Use the Digitizer to execute the following steps with the .tif images from the b
 
 ![Digitizer Interface]({{site.baseurl}}/assets/images/shiny/steps/5_georeferencing.png)
 
+6) Postprocess those georeferenced maps
+
+![Digitizer Interface]({{site.baseurl}}/assets/images/shiny/steps/6_postprocessing.png)
+
+
+
 
 Do not get confused with old versions of the Digitizer. 
 The most up-to-date version of the software and how to use it can be found on the [Digitizer webpage](https://environmentalinformatics-marburg.github.io/distribution_digitizer_webpage/){:target="_blank"}).
@@ -90,8 +96,6 @@ The most up-to-date version of the software and how to use it can be found on th
 
 
 ## Deliverables
-
-The desired output is the classified and georeferenced maps as .tif files.
 
 * Upload the content of the Digitizer's data/output/georeferencing/ folder into your GitHub Classroom repository
 * Please create a new folder for all content called "assignment_4" for this task in your repository
