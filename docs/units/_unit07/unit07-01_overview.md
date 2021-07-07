@@ -13,7 +13,8 @@ Use the Digitizer for detecting occurrence records on maps with pixel classifica
 At the end of this unit you should 
 * have refreshed your knowledge about template matching and pixel classification,
 * be able to use the Digitizer for detecting point records on distribution maps,
-* be able to georeference maps yourself and work with Ground Control Points
-* use GitHub issues for posting your problems and suggestions for improvements.
+* be able to georeference maps yourself and work with Ground Control Points,
+* use GitHub issues for posting your problems and suggestions for improvements, and
+* create georeferenced masks and extract centroids of the occurrence points in these masks.
 
 
