@@ -93,8 +93,8 @@ The most up-to-date version of the software and how to use it can be found on th
 
 The desired output is the classified and georeferenced maps as .tif files.
 
-* Upload the content of the Digitizer's data/output/ and data/templates folder into your GitHub Classroom repository
-* Please create a new folder for all content called "assignment_4" for this task
+* Upload the content of the Digitizer's data/output/georeferencing/ folder into your GitHub Classroom repository
+* Please create a new folder for all content called "assignment_4" for this task in your repository
 
 
 Please also open at least one issue for reporting problems or potential improvements on the Issues page of the Digitizer GitHub repository.
