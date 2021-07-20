@@ -19,7 +19,7 @@ Note that each link opens a new tab because the embedded documents are the HTML 
 
 ### [Generalized Linear Models]({{ "unit99/student_tutorials-02a_GLM_Dickhardt.html" | absolute_url }}){:target="_blank"}
 
-### [Generalized Additive Models (coming soon)]({{ "unit99/student_tutorials-02b_GAM_Meyer.html" | absolute_url }}){:target="_blank"}
+### [Generalized Additive Models]({{ "unit99/student_tutorials-02b_GAM_Meyer.html" | absolute_url }}){:target="_blank"}
 
 ### [Bioclim I]({{ "unit99/student_tutorials-03a_bioclim_Gabriel.html" | absolute_url }}){:target="_blank"}
 
