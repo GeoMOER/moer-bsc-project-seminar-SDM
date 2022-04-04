@@ -23,7 +23,7 @@ feature_row_ilos:
 
 Species distribution modelling (SDM) is a key competence for ecogeographical research and applied nature conservation. 
 It allows researchers to estimate current distributions of species and to also predict their future distributions under climate change scenarios.
-SDM encompasses various area-wide spatial predictions techniques and requires profound skills related to organizing, handling, analyzing and visualizing of geodata. 
+SDM encompasses various area-wide spatial predictions techniques and requires profound skills related to organizing, handling, analyzing and visualizing geodata. 
 
 By using the programming environment R, this course will open the door to the cosmos of SDM techniques and will provide a flexible baseline for workflow automation in various research projects. Special emphasis will be on R Markdown and GitHub for proper documentation and reproducibility. 
 
@@ -46,14 +46,16 @@ This course is intended as a blended learning module in our study program althou
 Given the enormous body of literature and methods available for SDM, it can only be an entry point for more sophisticated and project-specific modelling techniques.
 Each course aims to create area-wide species distribution maps for a group of organisms and a particular area of the world for which hitherto no species richness maps exist.
 
-Due to the ongoing **Corona-Virus SARS-CoV-2 pandemic** this course will be taught in a “Hybrid”-concept and trying to include session where students and  teachers partly meet at the University of Marburg, depending on the current situation and regulations.
-However, until further notice, the course will take place fully digital in the online classroom.
-The link to the online classroom will be provided by the instructor.
+This course will take place in a hybrid setting (except for the first session) with a digital classroom and additional students being present in person in the physical classroom (**F 14 | 00A12**).
+Details on this synchronous hybrid classroom format will be provided in the first session, which will take place **in presence only on Tuesday 19.04.2022 at 10:15 am**.
+The link to the digital classroom will be provided in the [Ilias course environment](xxxx){:target="_blank"} (only accessible for members of the course who are logged-in into Ilias). 
+Please also seriously check and follow the [Information on the Coronavirus](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"} of the University of Marburg.
 {: .notice--info}
+
 
 # Course times
 
-Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the instructor) starting on April 14th.
+Tuesdays 10:15 - 12:45.
 
 
 # Syllabus
@@ -61,30 +63,31 @@ Wednesdays 10:15 - 13:45 CEST in the digital classroom (link provided by the ins
 | Session |  Date | Topic                        | Content                                                                          |
 |---------|-------|------------------------------|----------------------------------------------------------------------------------|
 ||| **Basics** ||
-| 01 | 14.04.2021 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
-| 02 | 21.04.2021 | More basics                  | Data types, object types, indexing, work environment, data input and output                    |
-| 03 | 28.04.2021 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
-| 04 | 05.05.2021 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
+| 01 | 19.04.2022 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
+| 02 | 26.04.2022 | More basics                  | Data types, object types, indexing, work environment, data input and output                    |
+| 03 | 03.05.2022 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
+| 04 | 10.05.2022 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
 ||| **Digitizing distribution records**          ||
-| 05 | 12.05.2021 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
-| 06 | 19.05.2021 | Software development II      | Work on projects                                                                  |
-| 07 | 26.05.2021 | Software development III     | Work on projects                                                                  |
+| 05 | 17.05.2022 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
+| 06 | 24.05.2022 | Software development II      | Work on projects                                                                  |
+| 07 | 31.05.2022 | Applying the software        | Use the digitizer for extracting butterfly distribution records across Asia  |
+| 08 | 07.06.2022 | Merging                      | Merging all digitized data into one dataset |
 ||| **Project week Department of Geography**     ||
-| ~~08~~ | ~~02.06.2021~~ | Project week         | Session cancelled |
+| ~~09~~ | ~~14.06.2022~~ | Project week         | Session cancelled |
 ||| **Species Distribution Modelling**           ||
-| 09 | 09.06.2021 | SDM methods I                | Student tutorials presentations: Profile and regression methods                                 |
-| 10 | 16.06.2021 | SDM methods II               | Student tutorials presentations: Machine learning methods I                                     |
-| 11 | 23.06.2021 | SDM methods III              | Student tutorials presentations: Machine learning methods II, model averaging                   |
+| 10 | 21.06.2022 | SDM methods I                | Student tutorials presentations: Profile and regression methods                                 |
+| 11 | 28.06.2022 | SDM methods II               | Student tutorials presentations: Machine learning methods, model averaging                      |
 ||| **Synthesis**                                ||
-| 12 | 30.06.2021 | Applying the software / SDM methods extra        | Use the digitizer for extracting butterfly distribution records across Asia  |
-| 13 | 07.07.2021 | Merging and modelling        | Merging all digitized data into one dataset and area-wide predictive modelling |
-| 14 | 14.07.2021 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
+| 12 | 05.06.2022 | build-in hold                | Buffer session                      |
+| 13 | 12.07.2022 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
 
 
 # Deliverables
 
-The graded course certificate will be based on individual assignments written in R Markdown and published on GitHub.
-The individual assignments will be defined in the respective course sessions along with the information whether they will be graded or not.
+The course certificate will be based on individual assignments written in R Markdown and published on GitHub.
+Participants will prepare a graded student tutorial about an SDM method of their choice, which will be published on this page.
+
+
 
 
 # Preparation and prerequisites
