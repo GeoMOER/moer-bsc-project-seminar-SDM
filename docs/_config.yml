@@ -58,6 +58,8 @@ author:
 title_separator: "|"
 excerpt_separator: <!--more-->
 
+search: true
+
 # Build settings
 markdown: kramdown
 # theme: minima
@@ -74,7 +76,7 @@ include:
 
 # Collections
 collections:
-  examples:
+  unit00:
     output: true
     permalink: /:collection/:title.html
   unit01:
@@ -116,13 +118,13 @@ collections:
 
 # Default settings
 defaults:
-  # examples
+  # unit00
   - scope:
       path: ""
-      type: examples
+      type: unit00
     values:
-      category: "examples"
-      tags: "Examples"
+      category: "How-to-SDM"
+      tags: "Unit 00"
       layout: single
       sidebar:
         nav: "course_unit" 

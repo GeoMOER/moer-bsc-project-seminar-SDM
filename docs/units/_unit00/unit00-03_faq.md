@@ -35,21 +35,9 @@ This course gives 6 (ECTS) credit points, making up a total of 180 hours workloa
 
 The page with the description of this assignment can be found [here](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit04/unit04-05_assignment.html).
 
-### Schedule (as of 06.07.2021)
+### Schedule 
 
-9.6.2021: SDM Methods I
-- Bioclim (Mona Hallenberger)
-
-16.6.2021: SDM Methods II
-- Domain (Gabriel Behnke)
-- Random forest (Leander Heyer)
-- MaxEnt (Daniel Bothe)
-
-23.6.2021:  SDM Methods III
-- Generalized additive models (Jens Meyer)
-
-30.6.2021:  SDM Methods extra
-- XG Boost (Jan-Niklas Tripp)
+to be determined...
 
 
 ### Orientation
@@ -92,17 +80,11 @@ This means each cell of your grid system has as value the sum of the occurring s
 
 ### German students
 
-If you have not yet done so, upload **all** four assignments to your personal GitHub classroom repository by **July 22th 2021** latest.
+If you have not yet done so, upload **all** four assignments to your personal GitHub classroom repository by **July 22th 2022 (preliminary)** latest.
 Later uploads will not be accepted.
 Your mark is the weighted average of the marked assignments and the student tutorial.
 It will be forwarded to the department credit system if the above mentioned requirements are fulfilled.
 
-
-### International students
-
-If you have not yet done so, upload **all** four assignments to your personal GitHub classroom repository by **July 22th 2021** latest.
-Later uploads will not be accepted.
-If you need or would like to have a certificate for the course, please email the instructor.
 
 
 ### Overview assignments

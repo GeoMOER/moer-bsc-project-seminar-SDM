@@ -1,5 +1,5 @@
 ---
-title: "Marked Assignment: Hello R, Hello GitHub"
+title: "Assignment: Hello R, Hello GitHub"
 header:
   image: '/assets/images/titleimage/QGIS_Pakistan_3.png'
   caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
@@ -34,5 +34,5 @@ Save your Rmd file in your course repository, knitr it, update (i.e. commit) you
 As you might become aware by reading this assignment, there is a great chance that you have to gather considerable more information to actually solve the given assignment. More precisely, once you have solved the R programming task you are not be off the hook since you have to familiarize yourself with Git and GitHub to actually submit your solution.
 {: .notice--warning}
 
-This assignment will be marked.
+This assignment will not be marked.
 {: .notice--info}
