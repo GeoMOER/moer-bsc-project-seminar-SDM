@@ -78,7 +78,7 @@ Tuesdays 10:15 - 12:45.
 | 10 | 21.06.2022 | SDM methods I                | Student tutorials presentations: Profile and regression methods                                 |
 | 11 | 28.06.2022 | SDM methods II               | Student tutorials presentations: Machine learning methods, model averaging                      |
 ||| **Synthesis**                                ||
-| 12 | 05.06.2022 | build-in hold                | Buffer session                      |
+| 12 | 05.07.2022 | build-in hold                | Buffer session                      |
 | 13 | 12.07.2022 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
 
 
