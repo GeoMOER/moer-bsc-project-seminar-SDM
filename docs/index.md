@@ -66,19 +66,18 @@ Tuesdays 10:15 - 12:45.
 | 01 | 19.04.2022 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
 | 02 | 26.04.2022 | More basics                  | Data types, object types, indexing, work environment, data input and output                    |
 | 03 | 03.05.2022 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
-| 04 | 10.05.2022 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
+| ~~04~~ | ~~10.05.2022~~ | Session cancelled        |                         |
+| 05 | 17.05.2022 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
 ||| **Digitizing distribution records**          ||
-| 05 | 17.05.2022 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
-| 06 | 24.05.2022 | Software development II      | Work on projects                                                                  |
-| 07 | 31.05.2022 | Applying the software        | Use the digitizer for extracting butterfly distribution records across Asia  |
-| 08 | 07.06.2022 | Merging                      | Merging all digitized data into one dataset |
-||| **Project week Department of Geography**     ||
-| ~~09~~ | ~~14.06.2022~~ | Project week         | Session cancelled |
+| 06 | 24.05.2022 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
+| 07 | 31.05.2022 | Software development II      | Work on projects                                                                  |
+| 08 | 07.06.2022 | Applying the software        | Use the digitizer for extracting butterfly distribution records across Asia  |
+| ~~09~~ | ~~14.06.2022~~ | Project week Department of Geography        | Session cancelled |
+| 10 | 21.06.2022 | Merging                      | Merging all digitized data into one dataset |
 ||| **Species Distribution Modelling**           ||
-| 10 | 21.06.2022 | SDM methods I                | Student tutorials presentations: Profile and regression methods                                 |
-| 11 | 28.06.2022 | SDM methods II               | Student tutorials presentations: Machine learning methods, model averaging                      |
+| 11 | 28.06.2022 | SDM methods I                | Student tutorials presentations: Profile and regression methods                                 |
+| 12 | 05.07.2022 | SDM methods II               | Student tutorials presentations: Machine learning methods, model averaging                      |
 ||| **Synthesis**                                ||
-| 12 | 05.07.2022 | build-in hold                | Buffer session                      |
 | 13 | 12.07.2022 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
 
 

@@ -221,4 +221,11 @@ For more details see [www.rspatial.org](https://www.rspatial.org/raster/spatial/
 [Geocomputation with R](https://geocompr.robinlovelace.net/spatial-operations.html#spatial-vec){:target="_blank"}
 
 
+Note that the packages rgdal, rgeos and maptools, upon which many other spatial packages depend, will retire by the end of 2023.
+So it will be wise to switch to the packages sf, stars, and terra in due time. 
+For details, see this [blog](https://r-spatial.org/r/2022/04/12/evolution.html){:target="_blank"}.
+{: .notice--info}
+
+
+
 
