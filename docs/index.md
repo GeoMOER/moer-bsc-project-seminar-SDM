@@ -1,5 +1,5 @@
 ---
-title: Species Distribution Modelling
+title: species distribution modelling
 layout: splash
 date: '2019-10-15 13:00:00 +0100'
 header:
