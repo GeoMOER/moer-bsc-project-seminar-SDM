@@ -34,8 +34,7 @@ Finally, get more specific by checking out the example unit with SDM tutorials c
 
 ### Data
 
-Point data of the butterflies of Pakistan (and Ladakh) can be downloaded 
-[here](https://hessenbox.uni-marburg.de/getlink/fiL1HmupifwN8jjHeBFvdAxH/PakistanLadakh.csv).
+Point data of the butterflies of Pakistan and Ladakh (PakistanLadakh.csv)) can be downloaded from the data folder in Ilias.
 
 
 ## Deliverables
@@ -44,6 +43,7 @@ Point data of the butterflies of Pakistan (and Ladakh) can be downloaded
 Use the provided point data on the occurrence of butterflies in Pakistan for creating a species richness map of butterflies for this country.
 * Plan with 30 minutes minimum up to one hour for each tutorial presentation.
 The dates for the presentations can be found in the syllabus on the [course front page]({{ "index.html" | absolute_url }}).
+* See also the respective deliverables page, [here]({{ "unit00/unit00-02_deliverables.html" | absolute_url }})
 
 
 Note that you will need to gather considerably more information to solve this task than provided in the input parts of this course.
