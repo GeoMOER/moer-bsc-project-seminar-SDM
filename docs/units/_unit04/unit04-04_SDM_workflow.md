@@ -27,24 +27,24 @@ There are plenty of methods available for this step.
 Here are the arguably most important ones, which will be introduced by your tutorials:
 
 
-| Method                           |  Description |
-|----------------------------------|--------------|
-|**Profile methods**               |              |
-|Bioclim                           |              |
-|Domain                            |              |
-|**Regression methods**            |              |
-|Generalized linear models         |              |
-|Generalized additive models       |              |
-|**Machine-learning methods**      |              |
-|MaxEnt                            |              |
-|Random forest                     |              |
-|Boosted regression trees          |              |
-|Neural networks                   |              |
-|Support vector machines           |              |
-|XG Boost                          |              |
-|Bayesian nonparametric regression |              |
-|**Ensemble methods**              |              |
-|Model averaging                   |              |
+| Method                           |  
+|----------------------------------
+|**Profile methods**               |
+|Bioclim                           |
+|Domain                            |
+|**Regression methods**            |
+|Generalized linear models         |
+|Generalized additive models       |
+|**Machine-learning methods**      |
+|MaxEnt                            |
+|Random forest                     |
+|Boosted regression trees          |
+|Neural networks                   |
+|Support vector machines           |
+|XG Boost                          |
+|Bayesian nonparametric regression |
+|**Ensemble methods**              |
+|Model averaging                   |
 
 
 ### Assessment

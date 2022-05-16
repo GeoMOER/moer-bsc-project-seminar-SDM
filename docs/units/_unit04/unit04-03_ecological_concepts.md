@@ -33,7 +33,7 @@ Write down a one-sentence answer for each question.
 
 1. How is geographical space related to niche space?
 
-1. How can biotic interactions influence the distribution of species
+1. How can biotic interactions influence the distribution of species?
 
 1. Why can dispersal be a problem for modelling the distribution of species?
 

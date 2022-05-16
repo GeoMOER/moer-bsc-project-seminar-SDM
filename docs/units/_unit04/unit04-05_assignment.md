@@ -3,6 +3,7 @@ title: "Assignment: Student tutorials"
 header:
   image: '/assets/images/teaserimages/presence_absence.png'
   caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
+toc: true
 ---
 
 Get familiar with relevant references for SDM and prepare an HTML tutorial for a particular modelling technique.
@@ -12,7 +13,7 @@ Get familiar with relevant references for SDM and prepare an HTML tutorial for a
 
 ### References
 
-Start with the excellent general overviews by Robert J. Hijmans and Jane Elith on [www.rspatial.org](https://www.rspatial.org/sdm/SDM.pdf){:target="_blank"} 
+Start with the excellent general overviews by Robert J. Hijmans and Jane Elith on [www.rspatial.org](https://rspatial.org/terra/sdm/index.html){:target="_blank"} 
 and by Damaris Zurell on [damariszurell.github.io](https://damariszurell.github.io/SDM-Intro/){:target="_blank"}.
 
 
