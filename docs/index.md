@@ -71,14 +71,15 @@ Tuesdays 10:15 - 12:45.
 ||| **Digitizing distribution records**          ||
 | 06 | 24.05.2022 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
 | 07 | 31.05.2022 | Software development II      | Work on projects                                                                  |
-| 08 | 07.06.2022 | Applying the software        | Use the digitizer for extracting butterfly distribution records across Asia  |
+| 08 | 07.06.2022 | Applying the software        | Use the digitizer for extracting butterfly distribution records across Asia       |
 | ~~09~~ | ~~14.06.2022~~ | Project week Department of Geography        | Session cancelled |
-| 10 | 21.06.2022 | Merging                      | Merging all digitized data into one dataset |
 ||| **Species Distribution Modelling**           ||
-| 11 | 28.06.2022 | SDM methods I                | Student tutorials presentations: Profile and regression methods                                 |
-| 12 | 05.07.2022 | SDM methods II               | Student tutorials presentations: Machine learning methods, model averaging                      |
+| 10  | 21.06.2022 | SDM methods I                | Student tutorials presentations: Bioclim, GAM                                     |
+| 11  | 28.06.2022 | SDM methods II               | Student tutorials presentations: Random forest, SVM                               |
+| 12  | 05.07.2022 | SDM methods III              | Student tutorials presentations: Neural networks, MaxEnt/BRT                      |
+| 13a | 12.07.2022 | SDM methods IV               | Student tutorials presentations: XG Boost, Model averaging                        |
 ||| **Synthesis**                                ||
-| 13 | 12.07.2022 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
+| 13b | 12.07.2022 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
 
 
 # Deliverables
