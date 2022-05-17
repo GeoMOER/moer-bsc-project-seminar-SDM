@@ -52,7 +52,7 @@ The page with the description of this assignment can be found [here](https://geo
 
 ### Schedule 
 
-to be determined...
+Can be found on the title page of this course.
 
 
 ### Orientation
@@ -69,7 +69,8 @@ Check the technical requirements you need for the live-streaming of your tutoria
 
 ### Data
 
-Some useful data can be found on our [course server](http://85.214.102.111/data) in the folder "geodata".
+Some useful data can be found on our [course server](http://85.214.102.111/data) in the folder "geodata". 
+The credentials are provided in Ilias.
 
 ### Grid
 
@@ -84,10 +85,10 @@ This means each cell of your grid system has as value the sum of the occurring s
 * A possible structure for your tutorial can be found in unit 4 ("SDM workflow"). Do not forget to include the basics for making others understand how your method works ("conceptual underpinning").
 * Make sure that your tutorial is reproducible. If you want to be really professional, include the output of sessionInfo() at the end of your tutorial.
 * Start early! This is going to be quite some work. Use the tutorials of former students as orientation.
-* The student tutorial will make up 50% of your overall grade. The German participants must prepare a tutorial for passing the course.
-* If live processing of your script takes too much time, use screenshots and add them to your HTML page, which should be self-explanatory anyways.
+* The student tutorial will make up 100% of your overall grade. German participants must prepare a tutorial for passing the course.
+* If live processing of your script takes too much time (it probably will), use screenshots or intermediate graphical outputs and add them to your HTML page, which should be self-explanatory anyways.
 * Describe with text for each processing step why it is done and what for.
-* Include references to relevant papers, internet sources and data.
+* Include references to relevant papers, internet sources, and data.
 * Check your spelling.
 
 
