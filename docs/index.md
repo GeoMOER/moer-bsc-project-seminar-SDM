@@ -68,15 +68,15 @@ Tuesdays 10:15 - 12:45.
 | 03 | 03.05.2022 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
 | ~~04~~ | ~~10.05.2022~~ | Session cancelled        |                         |
 | 05 | 17.05.2022 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
-||| **Digitizing distribution records**          ||
-| 06 | 24.05.2022 | Software development I       | Project introduction, objectives, testing software for digitizing species records |
-| 07 | 31.05.2022 | Software development II      | Work on projects                                                                  |
-| 08 | 07.06.2022 | Applying the software        | Use the digitizer for extracting butterfly distribution records across Asia       |
+||| **Exemplary SDM workflow**          ||
+| 06 | 24.05.2022 | SDM workflow I               | Overview, conceptualisation, which SDM packages and functions to choose?          |
+| 07 | 31.05.2022 | SDM workflow II              | Project environment, data I/O, data preprocessing                                 |
+| 08 | 07.06.2022 | SDM workflow III             | Model fitting, assessment, and predictions                                        |
 | ~~09~~ | ~~14.06.2022~~ | Project week Department of Geography        | Session cancelled |
-||| **Species Distribution Modelling**           ||
+||| **Student tutorials**           ||
 | 10  | 21.06.2022 | SDM methods I                | Student tutorials presentations: Bioclim, GAM                                     |
-| 11  | 28.06.2022 | SDM methods II               | Student tutorials presentations: Random forest, SVM                               |
-| 12  | 05.07.2022 | SDM methods III              | Student tutorials presentations: Neural networks, MaxEnt/BRT                      |
+| 11  | 28.06.2022 | SDM methods II               | Student tutorials presentations: Random forest, BRT, SVM                          |
+| 12  | 05.07.2022 | SDM methods III              | Student tutorials presentations: Neural networks, MaxEnt                          |
 | 13a | 12.07.2022 | SDM methods IV               | Student tutorials presentations: XG Boost, Model averaging                        |
 ||| **Synthesis**                                ||
 | 13b | 12.07.2022 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |

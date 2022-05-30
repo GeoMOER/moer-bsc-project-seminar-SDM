@@ -91,21 +91,15 @@ collections:
   unit04:
     output: true
     permalink: /:collection/:title.html
-  unit05:
-    output: true
-    permalink: /:collection/:title.html
-  unit06:
-    output: true
-    permalink: /:collection/:title.html
-  unit07:
-    output: true
-    permalink: /:collection/:title.html
-  unit08:
-    output: true
-    permalink: /:collection/:title.html
-  unit09:
-    output: true
-    permalink: /:collection/:title.html
+#  unit05:
+#    output: true
+#    permalink: /:collection/:title.html
+#  unit06:
+#    output: true
+#    permalink: /:collection/:title.html
+#  unit07:
+#    output: true
+#    permalink: /:collection/:title.html
   unit99:
     output: true
     permalink: /:collection/:title.html
@@ -168,76 +162,36 @@ defaults:
       layout: single
       sidebar:
         nav: "course_unit" 
-  # unit05
-  - scope:
-      path: ""
-      type: unit05
-    values:
-      category: "05 Digitizing distribution records I"
-      tags: "Unit 05"
-      layout: single
-      sidebar:
-        nav: "course_unit" 
-  # unit06
-  - scope:
-      path: ""
-      type: unit06
-    values:
-      category: "06 Digitizing distribution records II"
-      tags: "Unit 06"
-      layout: single
-      sidebar:
-        nav: "course_unit" 
-  # unit07
-  - scope:
-      path: ""
-      type: unit07
-    values:
-      category: "07 Digitizing distribution records III"
-      tags: "Unit 07"
-      layout: single
-      sidebar:
-        nav: "course_unit" 
-  # unit08
-  - scope:
-      path: ""
-      type: unit08
-    values:
-      category: "08 Dealing with real data"
-      tags: "Unit 08"
-      layout: single
-      sidebar:
-        nav: "course_unit" 
-  # unit09
-  - scope:
-      path: ""
-      type: unit09
-    values:
-      category: "09 Dataset complementation I"
-      tags: "Unit 09"
-      layout: single
-      sidebar:
-        nav: "course_unit"         
-  # unit10
-  - scope:
-      path: ""
-      type: unit10
-    values:
-      category: "10 Dataset complementation II"
-      tags: "Unit 10"
-      layout: single
-      sidebar:
-        nav: "course_unit"         
-  # unit11
-  - scope:
-      path: ""
-      type: unit11
-    values:
-      category: "11 Publication quality graphics"
-      tags: "Unit 11"
-      layout: single
-      sidebar:
-        nav: "course_unit"
+#  # unit05
+#  - scope:
+#      path: ""
+#      type: unit05
+#    values:
+#      category: "05 Digitizing distribution records I"
+#      tags: "Unit 05"
+#      layout: single
+#      sidebar:
+#        nav: "course_unit" 
+#  # unit06
+#  - scope:
+#      path: ""
+#      type: unit06
+#    values:
+#      category: "06 Digitizing distribution records II"
+#      tags: "Unit 06"
+#      layout: single
+#      sidebar:
+#        nav: "course_unit" 
+#  # unit07
+#  - scope:
+#      path: ""
+#      type: unit07
+#    values:
+#      category: "07 Digitizing distribution records III"
+#      tags: "Unit 07"
+#      layout: single
+#      sidebar:
+#        nav: "course_unit" 
   # student_tutorials
   - scope:
       path: ""
