@@ -50,7 +50,10 @@ So start early!!!
 The page with the description of this assignment can be found [here](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit04/unit04-05_assignment.html).
 
 
-### Schedule 
+### Schedule
+
+The sessions with the student tutorials will start at 9:15 am.
+
 
 | Student                |  Method                      | Date        |
 |------------------------|------------------------------|-------------|
@@ -64,7 +67,7 @@ The page with the description of this assignment can be found [here](https://geo
 | Püttker, Clara         |  Bioclim                     | 21.06.2022  |
 | Stenkamp, Esther       |  Support vector machines     | 28.06.2022  |
 | Uebe, Leon             |  Random Forest               | 28.06.2022  |
-| Xander, Lasse Finn     |  MaxEnt                      | 05.07.2022  |
+| Xander, Lasse Finn     |  Bayesian SDM                | 05.07.2022  |
 
 
 ### Orientation
