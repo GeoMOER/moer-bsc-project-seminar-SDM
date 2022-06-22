@@ -74,8 +74,8 @@ Tuesdays 10:15 - 12:45.
 | 08 | 07.06.2022 | SDM workflow III             | Model fitting, assessment, and predictions                                        |
 | ~~09~~ | ~~14.06.2022~~ | Project week Department of Geography        | Session cancelled |
 ||| **Student tutorials**           ||
-| 10  | 21.06.2022 | SDM methods I                | Student tutorials presentations: Bioclim, GAM                                     |
-| 11  | 28.06.2022 | SDM methods II               | Student tutorials presentations: Random forest, BRT, SVM                          |
+| 10  | 21.06.2022 | SDM methods I                | Student tutorials presentations: Bioclim, Random Forest                                     |
+| 11  | 28.06.2022 | SDM methods II               | Student tutorials presentations: Boosted Regression Trees                         |
 | 12  | 05.07.2022 | SDM methods III              | Student tutorials presentations: Neural networks, Bayesian SDM                    |
 | 13a | 12.07.2022 | SDM methods IV               | Student tutorials presentations: XG Boost, Model averaging                        |
 ||| **Synthesis**                                ||

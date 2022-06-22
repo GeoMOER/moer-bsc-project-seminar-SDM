@@ -62,11 +62,9 @@ The sessions with the student tutorials will start at 9:15 am.
 | Engelhardt, Andreas    |  Bioclim                     | 21.06.2022  |
 | Hahnheiser, Noah       |  XGBoost                     | 12.07.2022  |
 | Kühn, Maira            |  Neural Networks             | 05.07.2022  |
-| Lilge, Jonna           |  GAM                         | 21.06.2022  |
 | Maecker, Luis          |  Mogel Averaging             | 12.07.2022  |
 | Püttker, Clara         |  Bioclim                     | 21.06.2022  |
-| Stenkamp, Esther       |  Support vector machines     | 28.06.2022  |
-| Uebe, Leon             |  Random Forest               | 28.06.2022  |
+| Uebe, Leon             |  Random Forest               | 21.06.2022  |
 | Xander, Lasse Finn     |  Bayesian SDM                | 05.07.2022  |
 
 
