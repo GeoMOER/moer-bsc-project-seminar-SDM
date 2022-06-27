@@ -58,7 +58,6 @@ The sessions with the student tutorials will start at 9:15 am.
 | Student                |  Method                      | Date        |
 |------------------------|------------------------------|-------------|
 | Dehn, Hannes           |  Neural Networks             | 05.07.2022  |
-| Delp, Kathleen         |  Boosted regression trees    | 28.06.2022  |
 | Engelhardt, Andreas    |  Bioclim                     | 21.06.2022  |
 | Hahnheiser, Noah       |  XGBoost                     | 12.07.2022  |
 | Kühn, Maira            |  Neural Networks             | 05.07.2022  |
