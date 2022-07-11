@@ -77,9 +77,9 @@ Tuesdays 10:15 - 12:45.
 | 10  | 21.06.2022 | SDM methods I                | Student tutorials presentations: Bioclim, Random Forest                                     |
 | ~~11~~  | ~~28.06.2022~~ | Session cancelled               |                         |
 | 12  | 05.07.2022 | SDM methods II              | Student tutorials presentations: Neural networks, Bayesian SDM                    |
-| 13a | 12.07.2022 | SDM methods III               | Student tutorials presentations: XG Boost, Model averaging                        |
+| 13a | 12.07.2022 | SDM methods III               | Student tutorials presentations: Model averaging                        |
 ||| **Synthesis**                                ||
-| 13b | 12.07.2022 | Wrap up                      | Get feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
+| 13b | 12.07.2022 | Wrap up                      | Get and give feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
 
 
 # Deliverables
