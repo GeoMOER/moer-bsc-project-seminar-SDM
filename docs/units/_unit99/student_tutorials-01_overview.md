@@ -26,6 +26,13 @@ feature_row_profile:
     url: unit99/student_tutorials-03b_bioclim_Hallenberger.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
+    
+  - image_path: assets/images/tutorials/bioclim_puettker-engelhardt.png
+    title: "Bioclim III"
+    excerpt: "Clara Puettker and Andreas Engelhardt"
+    url: unit99/student_tutorials-03c_bioclim_Puettker-Engelhardt.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"    
 
 feature_row_regression:
   - image_path: assets/images/tutorials/GLM_Dickhardt.png
@@ -85,10 +92,31 @@ feature_row_machine:
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
+  - image_path: assets/images/tutorials/RF_Uebe.png
+    title: "Random Forest III"
+    excerpt: "Leon Uebe"
+    url: unit99/student_tutorials-05c_RF_Uebe.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"
+    
   - image_path: assets/images/tutorials/xgboost_Tripp.png
     title: "XGboost"
     excerpt: "Jan-Niklas Tripp"
     url: unit99/student_tutorials-09a_xgboost_Tripp.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"
+    
+  - image_path: assets/images/tutorials/Bayesian_Xander.png
+    title: "Bayesian (BART)"
+    excerpt: "Lasse Xander"
+    url: unit99/student_tutorials-10a_Bayesian_Xander.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"
+    
+  - image_path: assets/images/tutorials/NN_Kuehn-Dehn.png
+    title: "Neural Networks"
+    excerpt: "Maira Kühn and Hannes Dehn"
+    url: unit99/student_tutorials-11a_NN_Kuehn-Dehn.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
         
