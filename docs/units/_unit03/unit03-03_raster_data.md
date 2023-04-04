@@ -50,3 +50,17 @@ Grid cells can therefore be identified both by their index and by a Cartesian co
 
 
 
+## Comments?
+You can leave comments under this issue if you have questions or comments about the content on this page. Please copy the corresponding line into your comment to make it easier to answer the question. 
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/moer-bsc-project-seminar-SDM"
+        issue-term="unit03-03_raster_data"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+

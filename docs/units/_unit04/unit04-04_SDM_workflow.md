@@ -18,7 +18,7 @@ Make a plan for your work first.
 
 ### Data
 
-The butterflies of Pakistan and maybe of whole Asia - depending on the outcome of the digitization part of this course - will serve as example in this course.
+The butterflies of Pakistan <!-- and maybe of whole Asia - depending on the outcome of the digitization part of this course - --> will serve as example in this course.
 
 
 ### Model fitting
@@ -59,5 +59,19 @@ Are easy to make but difficult to reproduce and even more difficult to evaluate.
 
 
 
+
+
+## Comments?
+You can leave comments under this issue if you have questions or comments about the content on this page. Please copy the corresponding line into your comment to make it easier to answer the question. 
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/moer-bsc-project-seminar-SDM"
+        issue-term="unit04-04_SDM_workflow"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 

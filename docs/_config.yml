@@ -52,6 +52,21 @@ author:
   github           : "GeoMOER"
   #twitter          : "https://twitter.com/geographie_umr"
   #youtube          : "https://www.youtube.com/channel/UCGiwSv5KYjsNXl6-nZq0SDA"
+  
+  ##### Lecturer settings #######################################################
+author:
+  name             : "Lisa Bald"
+  avatar           : "/assets/images/instructors/zeuss.jpg"
+  bio              : "University of Marburg"
+  location         : "Marburg, DE"
+  email            : "dirk.zeuss@uni-marburg.de"
+  uri              : "https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics"
+  home             : "https://www.researchgate.net/profile/Dirk_Zeuss"
+  researchgate     : "https://www.researchgate.net/profile/Dirk_Zeuss/stats" # to be included some day
+  #flickr           : "https://www.flickr.com/environmentalinformatics-marburg/"
+  github           : "GeoMOER"
+  #twitter          : "https://twitter.com/geographie_umr"
+  #youtube          : "https://www.youtube.com/channel/UCGiwSv5KYjsNXl6-nZq0SDA"
 
 
 ##### Site configuration ######################################################
@@ -91,12 +106,12 @@ collections:
   unit04:
     output: true
     permalink: /:collection/:title.html
-#  unit05:
-#    output: true
-#    permalink: /:collection/:title.html
-#  unit06:
-#    output: true
-#    permalink: /:collection/:title.html
+  unit05:
+    output: true
+    permalink: /:collection/:title.html
+  unit06:
+    output: true
+    permalink: /:collection/:title.html
 #  unit07:
 #    output: true
 #    permalink: /:collection/:title.html
@@ -162,26 +177,26 @@ defaults:
       layout: single
       sidebar:
         nav: "course_unit" 
-#  # unit05
-#  - scope:
-#      path: ""
-#      type: unit05
-#    values:
-#      category: "05 Digitizing distribution records I"
-#      tags: "Unit 05"
-#      layout: single
-#      sidebar:
-#        nav: "course_unit" 
+  # unit05
+  - scope:
+      path: ""
+      type: unit05
+    values:
+      category: "05 SDM workflow "
+      tags: "Unit 05"
+      layout: single
+      sidebar:
+        nav: "course_unit" 
 #  # unit06
-#  - scope:
-#      path: ""
-#      type: unit06
-#    values:
-#      category: "06 Digitizing distribution records II"
-#      tags: "Unit 06"
-#      layout: single
-#      sidebar:
-#        nav: "course_unit" 
+  - scope:
+      path: ""
+      type: unit06
+    values:
+      category: "06 Create your own student tutorial"
+      tags: "Unit 06"
+      layout: single
+      sidebar:
+        nav: "course_unit" 
 #  # unit07
 #  - scope:
 #      path: ""

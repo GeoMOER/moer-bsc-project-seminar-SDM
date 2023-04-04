@@ -55,3 +55,17 @@ Use the function `subset()` for this task.
 Have a look at the help page of this function (type `?subset`) to get familiar with its syntax.
 -->
 
+
+
+## Comments?
+You can leave comments under this issue if you have questions or comments about the content on this page. Please copy the corresponding line into your comment to make it easier to answer the question. 
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/moer-bsc-project-seminar-SDM"
+        issue-term="unit02-06_assignment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

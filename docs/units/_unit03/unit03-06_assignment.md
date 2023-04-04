@@ -24,8 +24,7 @@ This exercise will lead you through some of the most basic and important steps f
 - a vector map showing the country boundary,
 - use the vector map to clip the raster map,
 - map point locations denoting the places of residence of the course participants in your country (if any), 
-which you can enter [here](https://hessenbox.uni-marburg.de/getlink/fiWHwceuGtJ4tYNNJ2gZd8Ye/participant_locations.xlsx){:target="_blank"}
-(use a `SpatialPointsDataFrame` object with the correct CRS for this task),
+which you can enter [here](https://hessenbox.uni-marburg.de/getlink/fiWHwceuGtJ4tYNNJ2gZd8Ye/participant_locations.xlsx){:target="_blank"},
 - map the three largest cities of your selected country with different symbols, and
 - get bonus points by adding a legend, rivers, and other cartographic elements as well as
 - the distances of the places of residence to Marburg.
@@ -36,6 +35,7 @@ Make sure that the created html file is also part of your GitHub repository and 
 Also make sure that the created map does not exceed 2mb file size.
 {: .notice--info}
 
+<!--
 
 2) Create your first HTML tutorial
 
@@ -43,7 +43,7 @@ Create your own markdown-based HTML tutorial for task 1), but this time avoid us
 
 This assignment will 
 a) get you ready for the more extensive student tutorials later in the course an will 
-b) additionally prepare yourself for the end of life of the packages sp and raster, with which you have to deal in the future.
+b) additionally prepare yourself for the end of life of the package terra, with which you have to deal in the future.
 
 Do not use functions from the packages sp and raster for this task.
 Save your R functions and Rmd file in your course repository, knitr it, update (i.e. commit) your local repository and publish (i.e. push) it to the GitHub classroom. 
@@ -52,7 +52,21 @@ You may copy the text in the tutorial "Example: Workflow in R" from the previous
 {: .notice--info}
 
 
+-->
 
 
 
+
+## Comments?
+You can leave comments under this issue if you have questions or comments about the content on this page. Please copy the corresponding line into your comment to make it easier to answer the question. 
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/moer-bsc-project-seminar-SDM"
+        issue-term="unit03-06_assignment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 

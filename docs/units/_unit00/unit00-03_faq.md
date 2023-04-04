@@ -32,7 +32,7 @@ This course gives 6 (ECTS) credit points, making up a total of 180 hours workloa
 
 
 
-
+<!--
 
 ## Requirements for passing the course
 
@@ -55,7 +55,7 @@ Assignment 3: [Spatial Data Processing](https://geomoer.github.io/moer-bsc-proje
 
 Assignment 4: [Execute the Digitizer](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit07/unit07-03_assignment.html)
 
-
+-->
 
 
 

@@ -8,7 +8,7 @@ header:
 
 You need to deliver unmarked assignments ("Studienleistung") during the course 
 and at the end a marked student HTML tutorial work as part of your overall course portfolio ("Prüfungsleistung"), see below.
-
+<!--more-->
 
 ## Assignments
 
@@ -49,7 +49,7 @@ So start early!!!
 
 The page with the description of this assignment can be found [here](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit04/unit04-05_assignment.html).
 
-
+<!--
 ### Schedule
 
 The sessions with the student tutorials will start at 9:15 am.
@@ -65,25 +65,17 @@ The sessions with the student tutorials will start at 9:15 am.
 | Uebe, Leon             |  Random Forest               | 21.06.2022  |
 | Xander, Lasse Finn     |  Bayesian SDM                | 05.07.2022  |
 
+-->
 
-### Orientation
-
-Use the examples provided [here](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit99/student_tutorials-01_overview.html) and the video recording (links in Ilias) as orientation.
-
-### Duration 
-
-Plan with 30 minutes minimum up to one hour for each tutorial presentation.
-
-### Test your presentation!
-
-Check the technical requirements you need for the live-streaming of your tutorial on your local machine (e.g. audio, video, screen sharing, internet connection) **before** your presentation.
+* **Orientation:** Use the examples provided [here](https://geomoer.github.io/moer-bsc-project-seminar-SDM//unit99/student_tutorials-01_overview.html) and the video recording (links in Ilias) as orientation.
+* **Duration:** Plan with 30 minutes minimum up to one hour for each tutorial presentation.
+* **Test your presentation**
+* Check the technical requirements you need for the live-streaming of your tutorial on your local machine (e.g. audio, video, screen sharing, internet connection) **before** your presentation.
 
 ### Data
 
 Some useful data can be found on our [course server](http://85.214.102.111/data) in the folder "geodata". 
 The credentials are provided in Ilias.
-
-### Grid
 
 For creating a seamless raster map of your results, you need a grid system, which you can find on the course server. 
 You may want to use the 50 km x 50 km grid system, which is a compromise between accuracy and processing time.
@@ -93,7 +85,7 @@ You may want to use the 50 km x 50 km grid system, which is a compromise between
 * The aim of the tutorials is to teach others how your method works and how it is applied. Special emphasis should be given to an appealing, reproducible and self-explanatory HTML page for your method.
 * Technically, the result of your modelling workflow should be a map of the species numbers of butterflies in Pakistan. 
 This means each cell of your grid system has as value the sum of the occurring species in this cell. So yes, you need to model all species separately and sum up the occurring species within each cell.
-* A possible structure for your tutorial can be found in unit 4 ("SDM workflow"). Do not forget to include the basics for making others understand how your method works ("conceptual underpinning").
+* A possible structure for your tutorial can be found in [unit 4 SDM workflow](../unit04/unit04-04_SDM_workflow). Do not forget to include the basics for making others understand how your method works ("conceptual underpinning").
 * Make sure that your tutorial is reproducible. If you want to be really professional, include the output of sessionInfo() at the end of your tutorial.
 * Start early! This is going to be quite some work. Use the tutorials of former students as orientation.
 * The student tutorial will make up 100% of your overall grade. German participants must prepare a tutorial for passing the course.

@@ -36,3 +36,20 @@ As you might become aware by reading this assignment, there is a great chance th
 
 This assignment will not be marked.
 {: .notice--info}
+
+
+
+
+
+## Comments?
+You can leave comments under this issue if you have questions or comments about the content on this page. Please copy the corresponding line into your comment to make it easier to answer the question. 
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/moer-bsc-project-seminar-SDM"
+        issue-term="unit01-06_assignment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

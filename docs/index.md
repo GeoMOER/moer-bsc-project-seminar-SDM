@@ -9,7 +9,7 @@ header:
   caption: 'Photo: [Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
   cta_label: Go to course units
   cta_url: "/units.html"
-excerpt: Get an overview of species distribution modelling techniques, use R for handling, modelling and visualizing geo-datasets, and conjointly develop software for digitizing species distribution records
+excerpt: Get an overview of species distribution modelling techniques and use R for handling, modelling and visualizing geodata
 feature_row_intro:
 - excerpt: International course of the Department of [Physical Geography](https://www.uni-marburg.de/en/fb19/disciplines/physisch){:target="_blank"} at [Marburg University](https://www.uni-marburg.de/en){:target="_blank"}
 feature_row_ilos:
@@ -46,16 +46,15 @@ This course is intended as a blended learning module in our study program althou
 Given the enormous body of literature and methods available for SDM, it can only be an entry point for more sophisticated and project-specific modelling techniques.
 Each course aims to create area-wide species distribution maps for a group of organisms and a particular area of the world for which hitherto no species richness maps exist.
 
-This course will take place in a hybrid setting (except for the first session) with a digital classroom and additional students being present in person in the physical classroom (**F 14 | 00A12**).
-Details on this synchronous hybrid classroom format will be provided in the first session, which will take place **in presence only on Tuesday 19.04.2022 at 10:15 am**.
-The link to the digital classroom will be provided in the [Ilias course environment](xxxx){:target="_blank"} (only accessible for members of the course who are logged-in into Ilias). 
+This course will take place in the classroom (**F 14 | 00A12**). The first session will take place **on Tuesday 11.04.2023 at 09:15 am**.
+Course material will be provided in the [Ilias course environment](xxxx){:target="_blank"} (only accessible for members of the course who are logged-in into Ilias). 
 Please also seriously check and follow the [Information on the Coronavirus](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"} of the University of Marburg.
 {: .notice--info}
 
 
 # Course times
 
-Tuesdays 10:15 - 12:45.
+Tuesdays 09:15 - 13:45.
 
 
 # Syllabus
@@ -63,23 +62,26 @@ Tuesdays 10:15 - 12:45.
 | Session |  Date | Topic                        | Content                                                                          |
 |---------|-------|------------------------------|----------------------------------------------------------------------------------|
 ||| **Basics** ||
-| 01 | 19.04.2022 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
-| 02 | 26.04.2022 | More basics                  | Data types, object types, indexing, work environment, data input and output                    |
-| 03 | 03.05.2022 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
-| ~~04~~ | ~~10.05.2022~~ | Session cancelled        |                         |
-| 05 | 17.05.2022 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
+| 01 | 11.04.2023 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
+| 02 | 18.04.2023 | More basics                  | Data types, object types, indexing, work environment, data input and output                    |
+| 03 | 25.04.2023 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
+| 04 | 02.05.2023 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
 ||| **Exemplary SDM workflow**          ||
-| 06 | 24.05.2022 | SDM workflow I               | Overview, conceptualisation, which SDM packages and functions to choose?          |
-| 07 | 31.05.2022 | SDM workflow II              | Project environment, data I/O, data preprocessing                                 |
-| 08 | 07.06.2022 | SDM workflow III             | Model fitting, assessment, and predictions                                        |
-| ~~09~~ | ~~14.06.2022~~ | Project week Department of Geography        | Session cancelled |
+| 05 | 09.05.2023 | SDM workflow I               | Overview, conceptualisation, which SDM packages and functions to choose?          |
+| 06 | 16.05.2023 | SDM workflow II              | Project environment, data I/O, data preprocessing                                 |
+| 07 | 23.05.2023 | SDM workflow III             | Model fitting, assessment, and predictions                                        |
+| 08 | 30.05.2023| Built-in hold ||
 ||| **Student tutorials**           ||
-| 10  | 21.06.2022 | SDM methods I                | Student tutorials presentations: Bioclim, Random Forest                                     |
-| ~~11~~  | ~~28.06.2022~~ | Session cancelled               |                         |
-| 12  | 05.07.2022 | SDM methods II              | Student tutorials presentations: Neural networks, Bayesian SDM                    |
-| 13a | 12.07.2022 | SDM methods III               | Student tutorials presentations: Model averaging                        |
+| ~~09~~ | ~~06.06.2023~~ | Session cancelled        |                         |
+| 10  | 13.06.2023 | SDM methods I                | Student tutorials presentations: Bioclim, Random Forest                                     |
+| 11  | 20.06.2023 | SDM methods II              | Student tutorials presentations: Neural networks, Bayesian SDM                    |
+| 12 | 27.06.2023 | SDM methods III               | Student tutorials presentations: Model averaging                        |
+| 13 | 04.07.2023| Built-in hold ||
 ||| **Synthesis**                                ||
-| 13b | 12.07.2022 | Wrap up                      | Get and give feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
+| 14 | 11.07.2023 | Wrap up                      | Get and give feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
+
+
+
 
 
 # Deliverables
@@ -100,8 +102,11 @@ which can be found [here](https://geomoer.github.io/moer-base-r/){:target="_blan
 {: .notice--success}
 
 
-# Instructor
-{% include author-profile.html %}
+# Team
+
+{% for author in site.data.authors %} {% include author-profile.html %}
+{% endfor %}
+
 
 <!--
 [Go to course units]({{ site.baseurl }}{% link _pages/units.md %}){: .btn .btn--success .btn--large .align-center}

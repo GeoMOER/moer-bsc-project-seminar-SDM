@@ -29,3 +29,21 @@ In the context of spatial data and Geographic Information Systems, nodes are usu
 
 
 <!-- more examples to be added in some bright future -->
+
+
+
+
+
+
+## Comments?
+You can leave comments under this issue if you have questions or comments about the content on this page. Please copy the corresponding line into your comment to make it easier to answer the question. 
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/moer-bsc-project-seminar-SDM"
+        issue-term="unit03-02_vector_data"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
