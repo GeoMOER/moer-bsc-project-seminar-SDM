@@ -47,7 +47,7 @@ Given the enormous body of literature and methods available for SDM, it can only
 Each course aims to create area-wide species distribution maps for a group of organisms and a particular area of the world for which hitherto no species richness maps exist.
 
 This course will take place in the classroom (**F 14 | 00A12**). The first session will take place **on Tuesday 11.04.2023 at 09:15 am**.
-Course material will be provided in the [Ilias course environment](xxxx){:target="_blank"} (only accessible for members of the course who are logged-in into Ilias). 
+Course material will be provided in the [Ilias course environment](https://ilias.uni-marburg.de/goto.php?target=crs_3203176){:target="_blank"} (only accessible for members of the course who are logged-in into Ilias). 
 Please also seriously check and follow the [Information on the Coronavirus](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"} of the University of Marburg.
 {: .notice--info}
 
