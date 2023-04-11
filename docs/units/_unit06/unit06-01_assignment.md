@@ -8,6 +8,7 @@ toc: true
 
 Get familiar with relevant references for SDM and prepare an HTML tutorial for a particular modelling technique.
 
+<!--more-->
 
 ## Things you need for this assignment
 
