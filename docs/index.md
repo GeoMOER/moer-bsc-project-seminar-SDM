@@ -64,13 +64,13 @@ Tuesdays 09:15 - 13:45.
 ||| **Basics** ||
 | 01 | 11.04.2023 | The very basics              | Course introduction, expectations, organisational matters, R, R Studio, R Markdown, GitHub     |
 | 02 | 18.04.2023 | More basics                  | Data types, object types, indexing, work environment, data input and output                    |
-| 03 | 25.04.2023 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
-| 04 | 02.05.2023 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
+| ~~03~~ | ~~25.04.2023~~ | Session cancelled     |  |
+| 04 | 02.05.2023 | Working with spatial data    | Raster data, vector data, coordinate reference systems, reading and writing spatial data, spatial operators, mapping |
+| 05 | 09.05.2023 | SDM Basics                   | Why SDM?, applicability of SDM, ecological concepts, SDM modelling cycle. Student tutorial assignment                          |
 ||| **Exemplary SDM workflow**          ||
-| 05 | 09.05.2023 | SDM workflow I               | Overview, conceptualisation, which SDM packages and functions to choose?          |
-| 06 | 16.05.2023 | SDM workflow II              | Project environment, data I/O, data preprocessing                                 |
-| 07 | 23.05.2023 | SDM workflow III             | Model fitting, assessment, and predictions                                        |
-| 08 | 30.05.2023| Built-in hold ||
+| 06 | 16.05.2023 | SDM workflow I               | Overview, conceptualisation, which SDM packages and functions to choose?          |
+| 07 | 23.05.2023 | SDM workflow II              | Project environment, data I/O, data preprocessing                                 |
+| 08 | 30.05.2023 | SDM workflow III             | Model fitting, assessment, and predictions                                        |
 ||| **Student tutorials**           ||
 | ~~09~~ | ~~06.06.2023~~ | Session cancelled        |                         |
 | 10  | 13.06.2023 | SDM methods I                | Student tutorials presentations: Bioclim, Random Forest                                     |
