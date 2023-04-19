@@ -18,16 +18,16 @@ This exercise will lead you through some of the most basic and important steps f
 
 ## Spatial Data Processing
 
-1) Create a map of your country of residence with the following features:
+1) Create a map of your country of birth with the following features:
 
 - a raster background map showing elevation data,
 - a vector map showing the country boundary,
 - use the vector map to clip the raster map,
-- map point locations denoting the places of residence of the course participants in your country (if any), 
-which you can enter [here](https://hessenbox.uni-marburg.de/getlink/fiWHwceuGtJ4tYNNJ2gZd8Ye/participant_locations.xlsx){:target="_blank"},
-- map the three largest cities of your selected country with different symbols, and
+- map point locations denoting the places of birth of the course participants in your country (if any), 
+which you can enter [here](https://hessenbox.uni-marburg.de/getlink/fi9s5MyuGFHaNzx95S2g32/participant_locations_2023.xlsx),
+- map the three largest cities of your country with different symbols, and
 - get bonus points by adding a legend, rivers, and other cartographic elements as well as
-- the distances of the places of residence to Marburg.
+- the distances of the places of birth to Marburg.
 
 Use the code provided in the tutorial "Example: Workflow in R" from the previous page for this task.
 Save your R functions and Rmd file in your course repository, knitr it, update (i.e. commit) your local repository and publish (i.e. push) it to the GitHub classroom. 

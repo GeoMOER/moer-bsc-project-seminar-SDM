@@ -21,7 +21,7 @@ You will further have reinforced your skills for running commands within R scrip
   * [RStudio](https://www.rstudio.com/){:target="_blank"} — we recommend to use R Studio for (interactive) programming with R.
   * [Git](https://git-scm.com/downloads){:target="_blank"} environment for your operating system.
   * [The Data input and output tutorial](https://geomoer.github.io/moer-base-r/unit06/unit06-01_Intro.html){:target="_blank"} for this course.
-  * An input .csv file, which will be provided by the instructor.
+  * An input .csv file, which can be found in ILIAS(Data/dummydata.csv).
 
 
 ## Data input and output assignment
