@@ -16,11 +16,11 @@ This example provides a schematic workflow for processing vector and raster data
 
 Firstly, we import some raster data into our working environment
 Therefore, we need to load a package to handle raster data in R, preferable `terra`. To get some example data we will use the package `geodata`
-If the packages are not available, we need to install it first with `install.packages("raster")`.
+If the packages are not available, we need to install it first with `install.packages("terra")`.
 
 
 ```r
-library("terra")
+library(terra)
 ```
 
 We now can use the function `getData()` to download some raster data: In this example a global map of precipitation values at 10 minutes spatial resolution.Set a path to a temporary folder where you want to store the downloaded data.
