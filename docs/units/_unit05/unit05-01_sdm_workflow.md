@@ -9,6 +9,8 @@ toc: true
 
 soon to come...
 
+Overview of SDM packages: https://doi.org/10.1016/j.ecolmodel.2022.110242
+
 <!--more-->
 
 ...
