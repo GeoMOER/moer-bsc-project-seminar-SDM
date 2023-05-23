@@ -74,8 +74,8 @@ Tuesdays 09:15 - 13:45.
 | 08 | 30.05.2023 | Free working time             |   You can use the time of this session to work on your student tutorials and ask questions                                      |
 | ~~09~~ | ~~06.06.2023~~ | Session cancelled        |                         |
 | 10  | 13.06.2023 | SDM methods I                | Student tutorials presentations: Unbiased conditional inference forest (cforest), GLM mit Lasso penalty                                     |
-| 11  | 20.06.2023 | SDM methods II              | Student tutorials presentations: XGboost, Boosted Regression Trees                    |
-| 12 | 27.06.2023 | SDM methods III               | Student tutorials presentations: spatialMaxent                        |
+| 11  | 20.06.2023 | SDM methods II              | Student tutorials presentations: Boosted Regression Trees                       |
+| 12 | 27.06.2023 | SDM methods III               | Student tutorials presentations: XGboost, spatialMaxent                        |
 | 13 | 04.07.2023| Built-in hold ||
 ||| **Synthesis**                                ||
 | 14 | 11.07.2023 | Wrap up                      | Get and give feedback from your peers and instructors, tell us how you self-assess your skills, and happy holidays |
