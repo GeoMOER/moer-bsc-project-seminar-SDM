@@ -17,7 +17,7 @@ library(terra)
 library(sf)
 library(Metrics)
 library(ecospat)
-library(raster
+library(raster)
 
 # set your working directory
 setwd("D:/sdmWorkflow_Kurs/")
