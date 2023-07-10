@@ -63,6 +63,13 @@ feature_row_machine:
     url: unit99/student_tutorials-04b_maxent_Bothe.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
+    
+  - image_path: assets/images/tutorials/SpatialMaxent_Rudolp_Kleiner_Baum.png
+    title: "spatialMaxent"
+    excerpt: "Lisa Rudolph, Lilian Kleiner, Jonas Baum"
+    url: unit99/student_tutorials-12_SpatialMaxent_Rudolp_Kleiner_Baum.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"
  
   - image_path: assets/images/tutorials/BRT_Hilberg.png
     title: "Boosted Regression Trees"
@@ -96,6 +103,13 @@ feature_row_machine:
     title: "Random Forest III"
     excerpt: "Leon Uebe"
     url: unit99/student_tutorials-05c_RF_Uebe.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"
+    
+  - image_path: assets/images/tutorials/cforest_Breidenbach_Kintscher_Vandamme.png
+    title: "cforest"
+    excerpt: "Jannes Breidenbach, Enrico Kintscher, Malte Vandamme"
+    url: unit99/student_tutorials-13_cforest_Breidenbach_Kintscher_Vandamme.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
