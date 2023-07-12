@@ -29,10 +29,11 @@ feature_row_profile:
     
   - image_path: assets/images/tutorials/bioclim_puettker-engelhardt.png
     title: "Bioclim III"
-    excerpt: "Clara Puettker and Andreas Engelhardt"
+    excerpt: "Clara Puettker, Andreas Engelhardt"
     url: unit99/student_tutorials-03c_bioclim_Puettker-Engelhardt.html
     btn_label: "Go to tutorial"
-    btn_class: "btn--primary"    
+    btn_class: "btn--primary"
+
 
 feature_row_regression:
   - image_path: assets/images/tutorials/GLM_Dickhardt.png
@@ -42,12 +43,20 @@ feature_row_regression:
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
+  - image_path: assets/images/tutorials/glm_lasso_Cimen.png
+    title: "GLMs with Lasso Penalty"
+    excerpt: "Aziz Cimen"
+    url: unit99/student_tutorials-02c_GLM-Lasso-Penalty_Cimen.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"    
+    
   - image_path: assets/images/tutorials/GAM_Meyer.png
     title: "Generalized Additive Models"
     excerpt: "Jens Meyer"
     url: unit99/student_tutorials-02b_GAM_Meyer.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
+    
     
 feature_row_machine:
   - image_path: assets/images/tutorials/maxent_Klug.png
@@ -66,41 +75,48 @@ feature_row_machine:
     
   - image_path: assets/images/tutorials/SpatialMaxent_Rudolp_Kleiner_Baum.png
     title: "spatialMaxent"
-    excerpt: "Lisa Rudolph, Lilian Kleiner, Jonas Baum"
+    excerpt: "Rudolph, Kleiner, Baum"
     url: unit99/student_tutorials-12_SpatialMaxent_Rudolp_Kleiner_Baum.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
  
   - image_path: assets/images/tutorials/BRT_Hilberg.png
-    title: "Boosted Regression Trees"
+    title: "Boosted Regression Trees I"
     excerpt: "Lukas Hilberg"
     url: unit99/student_tutorials-06_BRT_Hilberg.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
+    
+  - image_path: assets/images/tutorials/brt_Remmetter_Tenbrueggen.png
+    title: "Boosted Regression Trees II"
+    excerpt: "Remmetter, Tenbrüggen"
+    url: unit99/student_tutorials-06b_BRT_Remmetter_Tenbrueggen.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"
 
   - image_path: assets/images/tutorials/SVM_Nuhn.png
-    title: "Support Vector Machines"
+    title: "Support Vector Machines <br /> I"
     excerpt: "Julian Nuhn"
     url: unit99/student_tutorials-07a_SVM_Nuhn.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
 
   - image_path: assets/images/tutorials/RF_Gimpel.png
-    title: "Random Forest I"
+    title: "Random Forest <br /> I"
     excerpt: "Mandy Gimpel"
     url: unit99/student_tutorials-05a_RF_Gimpel.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
   - image_path: assets/images/tutorials/RF_Heyer.png
-    title: "Random Forest II"
+    title: "Random Forest <br /> II"
     excerpt: "Leander Heyer"
     url: unit99/student_tutorials-05b_RF_Heyer.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
   - image_path: assets/images/tutorials/RF_Uebe.png
-    title: "Random Forest III"
+    title: "Random Forest <br /> III"
     excerpt: "Leon Uebe"
     url: unit99/student_tutorials-05c_RF_Uebe.html
     btn_label: "Go to tutorial"
@@ -108,15 +124,22 @@ feature_row_machine:
     
   - image_path: assets/images/tutorials/cforest_Breidenbach_Kintscher_Vandamme.png
     title: "cforest"
-    excerpt: "Jannes Breidenbach, Enrico Kintscher, Malte Vandamme"
+    excerpt: "Breidenbach, Kintscher, Vandamme"
     url: unit99/student_tutorials-13_cforest_Breidenbach_Kintscher_Vandamme.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
   - image_path: assets/images/tutorials/xgboost_Tripp.png
-    title: "XGboost"
-    excerpt: "Jan-Niklas Tripp"
+    title: "XGboost I "
+    excerpt: "Jan-Niklas Tripp <br /> <br /> "
     url: unit99/student_tutorials-09a_xgboost_Tripp.html
+    btn_label: "Go to tutorial"
+    btn_class: "btn--primary"
+    
+  - image_path: assets/images/tutorials/xgboost_Thoma_Hahneiser.png
+    title: "XGboost II"
+    excerpt: "Thoma, Hahneiser <br /> <br /> "
+    url: unit99/student_tutorials-09b_XGBoost_Thoma_Hahneiser.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
@@ -129,7 +152,7 @@ feature_row_machine:
     
   - image_path: assets/images/tutorials/NN_Kuehn-Dehn.png
     title: "Neural Networks"
-    excerpt: "Maira Kühn and Hannes Dehn"
+    excerpt: "Kühn, Dehn"
     url: unit99/student_tutorials-11a_NN_Kuehn-Dehn.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
