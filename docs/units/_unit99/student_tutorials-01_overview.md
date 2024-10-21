@@ -136,10 +136,10 @@ feature_row_machine:
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
-  - image_path: assets/images/tutorials/xgboost_Thoma_Hahneiser.png
+  - image_path: assets/images/tutorials/xgboost_Thoma_Hahnheiser.png
     title: "XGboost II"
-    excerpt: "Thoma, Hahneiser <br /> <br /> "
-    url: unit99/student_tutorials-09b_XGBoost_Thoma_Hahneiser.html
+    excerpt: "Thoma, Hahnheiser <br /> <br /> "
+    url: unit99/student_tutorials-09b_XGBoost_Thoma_Hahnheiser.html
     btn_label: "Go to tutorial"
     btn_class: "btn--primary"
     
